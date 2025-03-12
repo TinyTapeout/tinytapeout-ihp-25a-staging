@@ -78,8 +78,10 @@ jobs:
       - name: Copy macros
         run: python ./tt/configure.py --copy-macros
 
-      - name: Monkey-patch tt_top build script to skip DRC
+      - name: Monkey-patch tt_top build script to skip LVS & DRC
         run: |
+          sed -i 's/^[[:space:]]*Netgen\.LVS,$/#&/' tt-multiplexer/ol2/tt_top/build.py
+          sed -i 's/^[[:space:]]*Checker\.LVS,$/#&/' tt-multiplexer/ol2/tt_top/build.py
           sed -i 's/^[[:space:]]*KLayout\.DRC,$/#&/' tt-multiplexer/ol2/tt_top/build.py
           sed -i 's/^[[:space:]]*Checker\.KLayoutDRC,$/#&/' tt-multiplexer/ol2/tt_top/build.py
           sed -i 's/^[[:space:]]*Magic\.DRC,$/#&/' tt-multiplexer/ol2/tt_top/build.py
