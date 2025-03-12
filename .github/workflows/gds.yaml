@@ -15,7 +15,7 @@ jobs:
   gds:
     env:
       PYTHONIOENCODING: utf-8
-      PDK: sg13-g2
+      PDK: ihp-sg13g2
       PDK_ROOT: ${{ github.workspace }}/pdk
       # Uncomment the following line to build only the specified projects:
       #TT_ONLY_PROJECTS: tt_um_chip_rom,tt_um_factory_test
