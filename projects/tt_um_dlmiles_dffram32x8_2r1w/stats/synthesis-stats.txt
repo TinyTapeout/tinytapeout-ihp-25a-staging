@@ -1,0 +1,43 @@
+132. Printing statistics.
+
+=== tt_um_dlmiles_dffram32x8_2r1w ===
+
+   Number of wires:               1500
+   Number of wire bits:           1535
+   Number of public wires:         236
+   Number of public wire bits:     271
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               1308
+     sg13g2_a21o_1                   8
+     sg13g2_a21oi_1                131
+     sg13g2_a221oi_1                25
+     sg13g2_a22oi_1                 66
+     sg13g2_and2_1                   4
+     sg13g2_dfrbp_1                208
+     sg13g2_dllrq_1                  4
+     sg13g2_inv_1                   74
+     sg13g2_mux2_1                 221
+     sg13g2_mux4_1                  12
+     sg13g2_nand2_1                 62
+     sg13g2_nand2b_1                 2
+     sg13g2_nand3_1                 49
+     sg13g2_nand3b_1                 3
+     sg13g2_nand4_1                  4
+     sg13g2_nor2_1                  26
+     sg13g2_nor2b_1                  4
+     sg13g2_nor3_1                  63
+     sg13g2_nor4_1                   1
+     sg13g2_o21ai_1                 91
+     sg13g2_or2_1                    5
+     sg13g2_or3_1                   13
+     sg13g2_or4_1                    4
+     sg13g2_tiehi                  212
+     sg13g2_tielo                   16
+
+   Chip area for module '\tt_um_dlmiles_dffram32x8_2r1w': 21753.975600
+     of which used for sequential elements: 9812.275200 (45.11%)
+

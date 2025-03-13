@@ -1,0 +1,46 @@
+150. Printing statistics.
+
+=== tt_um_jamesrosssharp_tiny1bitam ===
+
+   Number of wires:               3190
+   Number of wire bits:           3225
+   Number of public wires:         160
+   Number of public wire bits:     195
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               3046
+     sg13g2_a21o_1                  84
+     sg13g2_a21oi_1                289
+     sg13g2_a221oi_1                20
+     sg13g2_a22oi_1                 42
+     sg13g2_and2_1                 155
+     sg13g2_and3_1                  36
+     sg13g2_and4_1                   3
+     sg13g2_buf_1                    2
+     sg13g2_dfrbp_1                160
+     sg13g2_inv_1                  134
+     sg13g2_mux2_1                   7
+     sg13g2_nand2_1                245
+     sg13g2_nand2b_1               105
+     sg13g2_nand3_1                 98
+     sg13g2_nand3b_1                 8
+     sg13g2_nand4_1                  6
+     sg13g2_nor2_1                 238
+     sg13g2_nor2b_1                107
+     sg13g2_nor3_1                  29
+     sg13g2_nor4_1                   3
+     sg13g2_o21ai_1                213
+     sg13g2_or2_1                   49
+     sg13g2_or3_1                   21
+     sg13g2_or4_1                    4
+     sg13g2_tiehi                  160
+     sg13g2_tielo                   22
+     sg13g2_xnor2_1                506
+     sg13g2_xor2_1                 300
+
+   Chip area for module '\tt_um_jamesrosssharp_tiny1bitam': 37262.559600
+     of which used for sequential elements: 7547.904000 (20.26%)
+

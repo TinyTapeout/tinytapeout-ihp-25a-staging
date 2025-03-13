@@ -1,0 +1,46 @@
+222. Printing statistics.
+
+=== tt_um_rebeccargb_vga_pride ===
+
+   Number of wires:               3111
+   Number of wire bits:           3146
+   Number of public wires:          38
+   Number of public wire bits:      73
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               3098
+     sg13g2_a21o_1                  67
+     sg13g2_a21oi_1                301
+     sg13g2_a221oi_1                52
+     sg13g2_a22oi_1                 76
+     sg13g2_and2_1                  88
+     sg13g2_and3_1                  16
+     sg13g2_and4_1                  12
+     sg13g2_buf_1                    2
+     sg13g2_dfrbp_1                 29
+     sg13g2_inv_1                  100
+     sg13g2_mux2_1                  26
+     sg13g2_nand2_1                415
+     sg13g2_nand2b_1               117
+     sg13g2_nand3_1                152
+     sg13g2_nand3b_1                15
+     sg13g2_nand4_1                 66
+     sg13g2_nor2_1                 416
+     sg13g2_nor2b_1                 74
+     sg13g2_nor3_1                 106
+     sg13g2_nor4_1                  49
+     sg13g2_o21ai_1                335
+     sg13g2_or2_1                   58
+     sg13g2_or3_1                   21
+     sg13g2_or4_1                   10
+     sg13g2_tiehi                   29
+     sg13g2_tielo                   16
+     sg13g2_xnor2_1                292
+     sg13g2_xor2_1                 158
+
+   Chip area for module '\tt_um_rebeccargb_vga_pride': 31117.716000
+     of which used for sequential elements: 1368.057600 (4.40%)
+

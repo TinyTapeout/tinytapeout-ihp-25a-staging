@@ -1,0 +1,34 @@
+116. Printing statistics.
+
+=== tt_um_chip4lyfe ===
+
+   Number of wires:                197
+   Number of wire bits:            232
+   Number of public wires:          34
+   Number of public wire bits:      69
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                187
+     sg13g2_a21oi_1                 18
+     sg13g2_and3_1                   4
+     sg13g2_and4_1                   6
+     sg13g2_buf_1                   16
+     sg13g2_dfrbp_1                 26
+     sg13g2_inv_1                    1
+     sg13g2_nand2_1                 16
+     sg13g2_nand2b_1                18
+     sg13g2_nor2_1                   8
+     sg13g2_nor2b_1                 18
+     sg13g2_nor3_1                   2
+     sg13g2_o21ai_1                  4
+     sg13g2_or2_1                    8
+     sg13g2_tiehi                   27
+     sg13g2_tielo                    7
+     sg13g2_xnor2_1                  8
+
+   Chip area for module '\tt_um_chip4lyfe': 2639.952000
+     of which used for sequential elements: 1226.534400 (46.46%)
+

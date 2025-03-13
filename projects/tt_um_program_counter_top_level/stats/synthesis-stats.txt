@@ -1,0 +1,33 @@
+127. Printing statistics.
+
+=== tt_um_program_counter_top_level ===
+
+   Number of wires:                 41
+   Number of wire bits:             76
+   Number of public wires:          13
+   Number of public wire bits:      48
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 52
+     sg13g2_a21oi_1                  2
+     sg13g2_a22oi_1                  1
+     sg13g2_and2_1                   1
+     sg13g2_dfrbp_1                  5
+     sg13g2_ebufn_2                  4
+     sg13g2_inv_1                    2
+     sg13g2_mux2_1                   1
+     sg13g2_nand2_1                  1
+     sg13g2_nor2b_1                  1
+     sg13g2_nor3_1                   4
+     sg13g2_nor4_1                   1
+     sg13g2_o21ai_1                  3
+     sg13g2_or2_1                    1
+     sg13g2_tiehi                    5
+     sg13g2_tielo                   20
+
+   Chip area for module '\tt_um_program_counter_top_level': 656.775000
+     of which used for sequential elements: 235.872000 (35.91%)
+

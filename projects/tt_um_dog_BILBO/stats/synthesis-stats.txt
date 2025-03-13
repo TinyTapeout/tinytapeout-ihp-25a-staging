@@ -1,0 +1,28 @@
+108. Printing statistics.
+
+=== tt_um_dog_BILBO ===
+
+   Number of wires:                 81
+   Number of wire bits:            116
+   Number of public wires:          32
+   Number of public wire bits:      67
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 81
+     sg13g2_buf_1                    9
+     sg13g2_dfrbp_1                 16
+     sg13g2_mux2_1                   8
+     sg13g2_nand2b_1                 8
+     sg13g2_nor2b_1                  1
+     sg13g2_o21ai_1                  2
+     sg13g2_tiehi                   16
+     sg13g2_tielo                    7
+     sg13g2_xnor2_1                 11
+     sg13g2_xor2_1                   3
+
+   Chip area for module '\tt_um_dog_BILBO': 1435.190400
+     of which used for sequential elements: 754.790400 (52.59%)
+

@@ -1,0 +1,84 @@
+114. Printing statistics.
+
+=== ro_stage ===
+
+   Number of wires:                 10
+   Number of wire bits:             10
+   Number of public wires:           6
+   Number of public wire bits:       6
+   Number of ports:                  6
+   Number of port bits:              6
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  5
+     sg13g2_a21oi_1                  1
+     sg13g2_inv_1                    1
+     sg13g2_nor2_1                   2
+     sg13g2_o21ai_1                  1
+
+   Chip area for module '\ro_stage': 38.102400
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== tt_um_instrumented_ring_oscillator ===
+
+   Number of wires:                 89
+   Number of wire bits:            124
+   Number of public wires:          34
+   Number of public wire bits:      69
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                105
+     ro_stage                       25
+     sg13g2_a21o_1                   2
+     sg13g2_a21oi_1                  1
+     sg13g2_and2_1                   1
+     sg13g2_buf_1                   16
+     sg13g2_inv_1                    4
+     sg13g2_nand2_1                  3
+     sg13g2_nand2b_1                 1
+     sg13g2_nor2_1                   2
+     sg13g2_nor3_1                   1
+     sg13g2_o21ai_1                  2
+     sg13g2_tiehi                    8
+     sg13g2_tielo                   39
+
+   Area for cell type \ro_stage is unknown!
+
+   Chip area for module '\tt_um_instrumented_ring_oscillator': 595.123200
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== design hierarchy ===
+
+   tt_um_instrumented_ring_oscillator      1
+     ro_stage                       25
+
+   Number of wires:                339
+   Number of wire bits:            374
+   Number of public wires:         184
+   Number of public wire bits:     219
+   Number of ports:                158
+   Number of port bits:            193
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                205
+     sg13g2_a21o_1                   2
+     sg13g2_a21oi_1                 26
+     sg13g2_and2_1                   1
+     sg13g2_buf_1                   16
+     sg13g2_inv_1                   29
+     sg13g2_nand2_1                  3
+     sg13g2_nand2b_1                 1
+     sg13g2_nor2_1                  52
+     sg13g2_nor3_1                   1
+     sg13g2_o21ai_1                 27
+     sg13g2_tiehi                    8
+     sg13g2_tielo                   39
+
+   Chip area for top module '\tt_um_instrumented_ring_oscillator': 1547.683200
+     of which used for sequential elements: 0.000000 (0.00%)
+

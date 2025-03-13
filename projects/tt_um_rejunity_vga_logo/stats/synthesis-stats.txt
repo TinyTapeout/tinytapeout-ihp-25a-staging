@@ -1,0 +1,45 @@
+146. Printing statistics.
+
+=== tt_um_rejunity_vga_logo ===
+
+   Number of wires:               1053
+   Number of wire bits:           1088
+   Number of public wires:          83
+   Number of public wire bits:     118
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                987
+     sg13g2_a21o_1                  15
+     sg13g2_a21oi_1                 91
+     sg13g2_a221oi_1                26
+     sg13g2_a22oi_1                 13
+     sg13g2_and2_1                  48
+     sg13g2_and3_1                   9
+     sg13g2_buf_1                    1
+     sg13g2_dfrbp_1                 82
+     sg13g2_inv_1                   35
+     sg13g2_mux2_1                   4
+     sg13g2_nand2_1                 80
+     sg13g2_nand2b_1                29
+     sg13g2_nand3_1                 33
+     sg13g2_nand3b_1                 4
+     sg13g2_nand4_1                  9
+     sg13g2_nor2_1                 109
+     sg13g2_nor2b_1                 21
+     sg13g2_nor3_1                  35
+     sg13g2_nor4_1                  16
+     sg13g2_o21ai_1                 86
+     sg13g2_or2_1                   19
+     sg13g2_or3_1                   10
+     sg13g2_or4_1                    2
+     sg13g2_tiehi                   82
+     sg13g2_tielo                   16
+     sg13g2_xnor2_1                 74
+     sg13g2_xor2_1                  38
+
+   Chip area for module '\tt_um_rejunity_vga_logo': 12433.591800
+     of which used for sequential elements: 3868.300800 (31.11%)
+
