@@ -1,0 +1,43 @@
+147. Printing statistics.
+
+=== tt_um_save_buffer_hash_table ===
+
+   Number of wires:                694
+   Number of wire bits:            729
+   Number of public wires:          97
+   Number of public wire bits:     132
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                612
+     sg13g2_a21o_1                   5
+     sg13g2_a21oi_1                 30
+     sg13g2_a221oi_1                 3
+     sg13g2_and2_1                   3
+     sg13g2_and3_1                   2
+     sg13g2_and4_1                   6
+     sg13g2_dfrbp_1                 98
+     sg13g2_inv_1                   83
+     sg13g2_mux2_1                   6
+     sg13g2_mux4_1                  16
+     sg13g2_nand2_1                 79
+     sg13g2_nand2b_1                16
+     sg13g2_nand3_1                  5
+     sg13g2_nand4_1                  1
+     sg13g2_nor2_1                  14
+     sg13g2_nor2b_1                  3
+     sg13g2_nor3_1                   6
+     sg13g2_nor4_1                   4
+     sg13g2_o21ai_1                101
+     sg13g2_or2_1                    7
+     sg13g2_or3_1                    1
+     sg13g2_tiehi                  100
+     sg13g2_tielo                   16
+     sg13g2_xnor2_1                  6
+     sg13g2_xor2_1                   1
+
+   Chip area for module '\tt_um_save_buffer_hash_table': 9249.811200
+     of which used for sequential elements: 4623.091200 (49.98%)
+

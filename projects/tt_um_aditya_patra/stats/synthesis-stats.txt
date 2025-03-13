@@ -1,0 +1,34 @@
+122. Printing statistics.
+
+=== tt_um_aditya_patra ===
+
+   Number of wires:                 44
+   Number of wire bits:             79
+   Number of public wires:          15
+   Number of public wire bits:      50
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 56
+     sg13g2_a21o_1                   1
+     sg13g2_a21oi_1                  3
+     sg13g2_a22oi_1                  1
+     sg13g2_and2_1                   2
+     sg13g2_buf_1                    3
+     sg13g2_dfrbp_1                  4
+     sg13g2_inv_1                    1
+     sg13g2_nand2_1                  3
+     sg13g2_nand2b_1                 4
+     sg13g2_nor2_1                   3
+     sg13g2_nor2b_1                  2
+     sg13g2_nor3_1                   2
+     sg13g2_nor4_1                   1
+     sg13g2_o21ai_1                  1
+     sg13g2_tiehi                    4
+     sg13g2_tielo                   21
+
+   Chip area for module '\tt_um_aditya_patra': 602.343000
+     of which used for sequential elements: 188.697600 (31.33%)
+

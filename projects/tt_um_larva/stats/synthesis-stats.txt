@@ -1,0 +1,46 @@
+152. Printing statistics.
+
+=== tt_um_larva ===
+
+   Number of wires:               7996
+   Number of wire bits:           8031
+   Number of public wires:        1045
+   Number of public wire bits:    1080
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               7041
+     sg13g2_a21o_1                 109
+     sg13g2_a21oi_1                738
+     sg13g2_a221oi_1               179
+     sg13g2_a22oi_1                256
+     sg13g2_and2_1                 120
+     sg13g2_and3_1                  26
+     sg13g2_and4_1                   9
+     sg13g2_buf_1                    9
+     sg13g2_dfrbp_1                971
+     sg13g2_inv_1                  422
+     sg13g2_mux2_1                 681
+     sg13g2_mux4_1                  93
+     sg13g2_nand2_1                467
+     sg13g2_nand2b_1               117
+     sg13g2_nand3_1                 81
+     sg13g2_nand3b_1                15
+     sg13g2_nand4_1                 28
+     sg13g2_nor2_1                 554
+     sg13g2_nor2b_1                 67
+     sg13g2_nor3_1                  79
+     sg13g2_nor4_1                  37
+     sg13g2_o21ai_1                825
+     sg13g2_or2_1                   35
+     sg13g2_or3_1                   30
+     sg13g2_or4_1                    4
+     sg13g2_tiehi                  873
+     sg13g2_xnor2_1                129
+     sg13g2_xor2_1                  87
+
+   Chip area for module '\tt_um_larva': 108213.840000
+     of which used for sequential elements: 45806.342400 (42.33%)
+

@@ -1,0 +1,107 @@
+104. Printing statistics.
+
+=== async_arbiter ===
+
+   Number of wires:                 10
+   Number of wire bits:             10
+   Number of public wires:          10
+   Number of public wire bits:      10
+   Number of ports:                  6
+   Number of port bits:              6
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  6
+     async_mutex                     1
+     c_element                       2
+     sg13g2_nor2b_1                  2
+     sg13g2_or2_1                    1
+
+   Area for cell type \async_mutex is unknown!
+   Area for cell type \c_element is unknown!
+
+   Chip area for module '\async_arbiter': 27.216000
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== async_mutex ===
+
+   Number of wires:                  4
+   Number of wire bits:              4
+   Number of public wires:           4
+   Number of public wire bits:       4
+   Number of ports:                  4
+   Number of port bits:              4
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  2
+     sg13g2_nor2b_1                  2
+
+   Chip area for module '\async_mutex': 18.144000
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== c_element ===
+
+   Number of wires:                  5
+   Number of wire bits:              5
+   Number of public wires:           4
+   Number of public wire bits:       4
+   Number of ports:                  3
+   Number of port bits:              3
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  3
+     sg13g2_a21o_1                   1
+     sg13g2_and2_1                   1
+     sg13g2_or2_1                    1
+
+   Chip area for module '\c_element': 30.844800
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== tt_um_torurstrom_async_lock ===
+
+   Number of wires:                 21
+   Number of wire bits:             56
+   Number of public wires:          21
+   Number of public wire bits:      56
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 23
+     async_arbiter                   7
+     sg13g2_tielo                   16
+
+   Area for cell type \async_arbiter is unknown!
+
+   Chip area for module '\tt_um_torurstrom_async_lock': 116.121600
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== design hierarchy ===
+
+   tt_um_torurstrom_async_lock       1
+     async_arbiter                   7
+       async_mutex                   1
+       c_element                     2
+
+   Number of wires:                189
+   Number of wire bits:            224
+   Number of public wires:         175
+   Number of public wire bits:     210
+   Number of ports:                120
+   Number of port bits:            155
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 93
+     sg13g2_a21o_1                  14
+     sg13g2_and2_1                  14
+     sg13g2_nor2b_1                 28
+     sg13g2_or2_1                   21
+     sg13g2_tielo                   16
+
+   Chip area for top module '\tt_um_torurstrom_async_lock': 865.468800
+     of which used for sequential elements: 0.000000 (0.00%)
+

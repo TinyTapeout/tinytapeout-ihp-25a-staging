@@ -1,0 +1,47 @@
+187. Printing statistics.
+
+=== tt_um_MichaelBell_tinyQV ===
+
+   Number of wires:              10197
+   Number of wire bits:          10232
+   Number of public wires:        1487
+   Number of public wire bits:    1522
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               8744
+     sg13g2_a21o_1                  89
+     sg13g2_a21oi_1                861
+     sg13g2_a221oi_1               139
+     sg13g2_a22oi_1                332
+     sg13g2_and2_1                 193
+     sg13g2_and3_1                  23
+     sg13g2_and4_1                  18
+     sg13g2_buf_1                   12
+     sg13g2_buf_8                    1
+     sg13g2_dfrbp_1               1469
+     sg13g2_inv_1                  595
+     sg13g2_mux2_1                 227
+     sg13g2_mux4_1                  33
+     sg13g2_nand2_1                722
+     sg13g2_nand2b_1               137
+     sg13g2_nand3_1                179
+     sg13g2_nand3b_1                19
+     sg13g2_nand4_1                 86
+     sg13g2_nor2_1                 725
+     sg13g2_nor2b_1                 96
+     sg13g2_nor3_1                 198
+     sg13g2_nor4_1                  45
+     sg13g2_o21ai_1                767
+     sg13g2_or2_1                   66
+     sg13g2_or3_1                   13
+     sg13g2_or4_1                    3
+     sg13g2_tiehi                 1445
+     sg13g2_xnor2_1                168
+     sg13g2_xor2_1                  83
+
+   Chip area for module '\tt_um_MichaelBell_tinyQV': 134488.922400
+     of which used for sequential elements: 69299.193600 (51.53%)
+

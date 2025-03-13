@@ -1,0 +1,45 @@
+145. Printing statistics.
+
+=== tt_um_UartMain ===
+
+   Number of wires:                594
+   Number of wire bits:            629
+   Number of public wires:          94
+   Number of public wire bits:     129
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                524
+     sg13g2_a21o_1                   1
+     sg13g2_a21oi_1                 44
+     sg13g2_a221oi_1                 1
+     sg13g2_a22oi_1                  2
+     sg13g2_and2_1                   7
+     sg13g2_and3_1                   9
+     sg13g2_and4_1                   1
+     sg13g2_buf_1                    1
+     sg13g2_dfrbp_1                 86
+     sg13g2_inv_1                   14
+     sg13g2_nand2_1                 15
+     sg13g2_nand2b_1                10
+     sg13g2_nand3_1                 13
+     sg13g2_nand3b_1                 4
+     sg13g2_nand4_1                  1
+     sg13g2_nor2_1                  69
+     sg13g2_nor2b_1                 15
+     sg13g2_nor3_1                  40
+     sg13g2_nor4_1                  15
+     sg13g2_o21ai_1                 33
+     sg13g2_or2_1                    6
+     sg13g2_or3_1                    3
+     sg13g2_or4_1                    3
+     sg13g2_tiehi                   86
+     sg13g2_tielo                   23
+     sg13g2_xnor2_1                 14
+     sg13g2_xor2_1                   8
+
+   Chip area for module '\tt_um_UartMain': 7868.977200
+     of which used for sequential elements: 4056.998400 (51.56%)
+

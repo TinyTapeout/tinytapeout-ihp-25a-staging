@@ -1,0 +1,45 @@
+123. Printing statistics.
+
+=== tt_um_flummer_ltc ===
+
+   Number of wires:               1027
+   Number of wire bits:           1062
+   Number of public wires:         152
+   Number of public wire bits:     187
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                899
+     sg13g2_a21o_1                   5
+     sg13g2_a21oi_1                 26
+     sg13g2_a221oi_1                14
+     sg13g2_a22oi_1                 40
+     sg13g2_and2_1                  10
+     sg13g2_and3_1                  13
+     sg13g2_and4_1                  11
+     sg13g2_buf_1                    8
+     sg13g2_dfrbp_1                144
+     sg13g2_inv_1                   28
+     sg13g2_mux2_1                   1
+     sg13g2_nand2_1                 30
+     sg13g2_nand2b_1                 7
+     sg13g2_nand3_1                 42
+     sg13g2_nand3b_1                 5
+     sg13g2_nand4_1                 17
+     sg13g2_nor2_1                 123
+     sg13g2_nor2b_1                 11
+     sg13g2_nor3_1                  27
+     sg13g2_nor4_1                  14
+     sg13g2_o21ai_1                 67
+     sg13g2_or2_1                    5
+     sg13g2_or3_1                    1
+     sg13g2_tiehi                  145
+     sg13g2_tielo                   14
+     sg13g2_xnor2_1                 61
+     sg13g2_xor2_1                  30
+
+   Chip area for module '\tt_um_flummer_ltc': 13815.144000
+     of which used for sequential elements: 6793.113600 (49.17%)
+

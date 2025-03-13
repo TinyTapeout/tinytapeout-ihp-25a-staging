@@ -1,0 +1,39 @@
+130. Printing statistics.
+
+=== tt_um_atomNPU ===
+
+   Number of wires:                178
+   Number of wire bits:            213
+   Number of public wires:          26
+   Number of public wire bits:      61
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                172
+     sg13g2_a21o_1                   3
+     sg13g2_a21oi_1                 20
+     sg13g2_a22oi_1                  9
+     sg13g2_and2_1                   2
+     sg13g2_buf_1                    6
+     sg13g2_dfrbp_1                 22
+     sg13g2_inv_1                   18
+     sg13g2_mux2_1                   5
+     sg13g2_mux4_1                   1
+     sg13g2_nand2_1                 17
+     sg13g2_nand2b_1                 3
+     sg13g2_nand3_1                  4
+     sg13g2_nor2_1                  12
+     sg13g2_nor2b_1                 10
+     sg13g2_nor3_1                   2
+     sg13g2_nor4_1                   1
+     sg13g2_o21ai_1                 14
+     sg13g2_or2_1                    1
+     sg13g2_tielo                   14
+     sg13g2_xnor2_1                  5
+     sg13g2_xor2_1                   3
+
+   Chip area for module '\tt_um_atomNPU': 2391.039000
+     of which used for sequential elements: 1037.836800 (43.41%)
+

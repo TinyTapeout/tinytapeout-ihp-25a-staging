@@ -1,0 +1,46 @@
+149. Printing statistics.
+
+=== tt_um_spi_pwm_djuara ===
+
+   Number of wires:                984
+   Number of wire bits:           1019
+   Number of public wires:         142
+   Number of public wire bits:     177
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                852
+     sg13g2_a21o_1                   5
+     sg13g2_a21oi_1                 61
+     sg13g2_a221oi_1                30
+     sg13g2_a22oi_1                 49
+     sg13g2_and2_1                  11
+     sg13g2_and3_1                   1
+     sg13g2_and4_1                   1
+     sg13g2_buf_1                   11
+     sg13g2_dfrbp_1                148
+     sg13g2_inv_1                   61
+     sg13g2_mux2_1                  64
+     sg13g2_mux4_1                   1
+     sg13g2_nand2_1                 81
+     sg13g2_nand2b_1                42
+     sg13g2_nand3_1                 22
+     sg13g2_nand3b_1                 5
+     sg13g2_nand4_1                  9
+     sg13g2_nor2_1                  53
+     sg13g2_nor2b_1                 55
+     sg13g2_nor3_1                  18
+     sg13g2_nor4_1                   2
+     sg13g2_o21ai_1                 91
+     sg13g2_or2_1                    5
+     sg13g2_or3_1                    1
+     sg13g2_tiehi                   14
+     sg13g2_tielo                    5
+     sg13g2_xnor2_1                  2
+     sg13g2_xor2_1                   4
+
+   Chip area for module '\tt_um_spi_pwm_djuara': 13811.175000
+     of which used for sequential elements: 6981.811200 (50.55%)
+

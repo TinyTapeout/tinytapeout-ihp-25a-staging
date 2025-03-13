@@ -1,0 +1,46 @@
+151. Printing statistics.
+
+=== tt_um_gregac_tiny_nn ===
+
+   Number of wires:               6591
+   Number of wire bits:           6626
+   Number of public wires:         492
+   Number of public wire bits:     527
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               6115
+     sg13g2_a21o_1                 167
+     sg13g2_a21oi_1                506
+     sg13g2_a221oi_1               107
+     sg13g2_a22oi_1                189
+     sg13g2_and2_1                 160
+     sg13g2_and3_1                  51
+     sg13g2_and4_1                  30
+     sg13g2_dfrbp_1                492
+     sg13g2_inv_1                  277
+     sg13g2_mux2_1                 443
+     sg13g2_mux4_1                  14
+     sg13g2_nand2_1                512
+     sg13g2_nand2b_1               173
+     sg13g2_nand3_1                181
+     sg13g2_nand3b_1                25
+     sg13g2_nand4_1                103
+     sg13g2_nor2_1                 515
+     sg13g2_nor2b_1                141
+     sg13g2_nor3_1                 132
+     sg13g2_nor4_1                  77
+     sg13g2_o21ai_1                648
+     sg13g2_or2_1                   74
+     sg13g2_or3_1                   37
+     sg13g2_or4_1                   12
+     sg13g2_tiehi                  450
+     sg13g2_tielo                   16
+     sg13g2_xnor2_1                340
+     sg13g2_xor2_1                 243
+
+   Chip area for module '\tt_um_gregac_tiny_nn': 80595.761400
+     of which used for sequential elements: 23209.804800 (28.80%)
+

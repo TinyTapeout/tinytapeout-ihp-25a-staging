@@ -1,0 +1,47 @@
+173. Printing statistics.
+
+=== tt_um_Qwendu_spi_fpu ===
+
+   Number of wires:               4385
+   Number of wire bits:           4420
+   Number of public wires:         552
+   Number of public wire bits:     587
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               3851
+     sg13g2_a21o_1                  66
+     sg13g2_a21oi_1                426
+     sg13g2_a221oi_1                31
+     sg13g2_a22oi_1                 65
+     sg13g2_and2_1                  49
+     sg13g2_and3_1                   3
+     sg13g2_and4_1                  20
+     sg13g2_buf_1                    1
+     sg13g2_dfrbp_1                550
+     sg13g2_inv_1                  125
+     sg13g2_mux2_1                 335
+     sg13g2_mux4_1                 119
+     sg13g2_nand2_1                235
+     sg13g2_nand2b_1                69
+     sg13g2_nand3_1                 83
+     sg13g2_nand3b_1                14
+     sg13g2_nand4_1                 35
+     sg13g2_nor2_1                 397
+     sg13g2_nor2b_1                 59
+     sg13g2_nor3_1                  52
+     sg13g2_nor4_1                  44
+     sg13g2_o21ai_1                319
+     sg13g2_or2_1                   20
+     sg13g2_or3_1                    4
+     sg13g2_or4_1                    5
+     sg13g2_tiehi                  550
+     sg13g2_tielo                   23
+     sg13g2_xnor2_1                108
+     sg13g2_xor2_1                  44
+
+   Chip area for module '\tt_um_Qwendu_spi_fpu': 61451.271000
+     of which used for sequential elements: 25945.920000 (42.22%)
+

@@ -1,0 +1,195 @@
+174. Printing statistics.
+
+=== $paramod\ring_osc\NO_INVs=s32'00000000000000000000000000001011 ===
+
+   Number of wires:                  2
+   Number of wire bits:             12
+   Number of public wires:           2
+   Number of public wire bits:      12
+   Number of ports:                  2
+   Number of port bits:             12
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 11
+     primitive_nand                  1
+     primitive_not                  10
+
+   Area for cell type \primitive_nand is unknown!
+   Area for cell type \primitive_not is unknown!
+
+=== D_FF ===
+
+   Number of wires:                  6
+   Number of wire bits:              6
+   Number of public wires:           4
+   Number of public wire bits:       4
+   Number of ports:                  4
+   Number of port bits:              4
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  2
+     sg13g2_dfrbp_1                  1
+     sg13g2_inv_1                    1
+
+   Chip area for module '\D_FF': 52.617600
+     of which used for sequential elements: 47.174400 (89.66%)
+
+=== primitive_nand ===
+
+   Number of wires:                  3
+   Number of wire bits:              3
+   Number of public wires:           3
+   Number of public wire bits:       3
+   Number of ports:                  3
+   Number of port bits:              3
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_nand2_1                  1
+
+   Chip area for module '\primitive_nand': 7.257600
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== primitive_not ===
+
+   Number of wires:                  2
+   Number of wire bits:              2
+   Number of public wires:           2
+   Number of public wire bits:       2
+   Number of ports:                  2
+   Number of port bits:              2
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_inv_1                    1
+
+   Chip area for module '\primitive_not': 5.443200
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== ring_generator ===
+
+   Number of wires:                 36
+   Number of wire bits:             77
+   Number of public wires:          36
+   Number of public wire bits:      77
+   Number of ports:                  5
+   Number of port bits:             46
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 64
+     D_FF                           32
+     sg13g2_buf_1                   19
+     sg13g2_xor2_1                  13
+
+   Area for cell type \D_FF is unknown!
+
+   Chip area for module '\ring_generator': 326.592000
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== tt_um_daobaanh_rng ===
+
+   Number of wires:                843
+   Number of wire bits:            878
+   Number of public wires:         165
+   Number of public wire bits:     200
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                703
+     $paramod\ring_osc\NO_INVs=s32'00000000000000000000000000001011      1
+     ring_generator                  1
+     sg13g2_a21o_1                  13
+     sg13g2_a21oi_1                 33
+     sg13g2_a221oi_1                10
+     sg13g2_a22oi_1                 14
+     sg13g2_and2_1                   7
+     sg13g2_and3_1                   7
+     sg13g2_and4_1                   2
+     sg13g2_buf_1                    3
+     sg13g2_dfrbp_1                114
+     sg13g2_inv_1                   64
+     sg13g2_mux2_1                  10
+     sg13g2_mux4_1                   1
+     sg13g2_nand2_1                 61
+     sg13g2_nand2b_1                25
+     sg13g2_nand3_1                 16
+     sg13g2_nand3b_1                 5
+     sg13g2_nand4_1                  9
+     sg13g2_nor2_1                  37
+     sg13g2_nor2b_1                  5
+     sg13g2_nor3_1                  14
+     sg13g2_nor4_1                   6
+     sg13g2_o21ai_1                 81
+     sg13g2_or2_1                    7
+     sg13g2_or3_1                    2
+     sg13g2_or4_1                    2
+     sg13g2_tiehi                  114
+     sg13g2_tielo                   20
+     sg13g2_xnor2_1                  9
+     sg13g2_xor2_1                  10
+
+   Area for cell type \ring_generator is unknown!
+   Area for cell type $paramod\ring_osc\NO_INVs=s32'00000000000000000000000000001011 is unknown!
+
+   Chip area for module '\tt_um_daobaanh_rng': 10493.960400
+     of which used for sequential elements: 5377.881600 (51.25%)
+
+=== design hierarchy ===
+
+   tt_um_daobaanh_rng                1
+     $paramod\ring_osc\NO_INVs=s32'00000000000000000000000000001011      1
+       primitive_nand                1
+       primitive_not                10
+     ring_generator                  1
+       D_FF                         32
+
+   Number of wires:               1096
+   Number of wire bits:           1182
+   Number of public wires:         354
+   Number of public wire bits:     440
+   Number of ports:                166
+   Number of port bits:            252
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                808
+     sg13g2_a21o_1                  13
+     sg13g2_a21oi_1                 33
+     sg13g2_a221oi_1                10
+     sg13g2_a22oi_1                 14
+     sg13g2_and2_1                   7
+     sg13g2_and3_1                   7
+     sg13g2_and4_1                   2
+     sg13g2_buf_1                   22
+     sg13g2_dfrbp_1                146
+     sg13g2_inv_1                  106
+     sg13g2_mux2_1                  10
+     sg13g2_mux4_1                   1
+     sg13g2_nand2_1                 62
+     sg13g2_nand2b_1                25
+     sg13g2_nand3_1                 16
+     sg13g2_nand3b_1                 5
+     sg13g2_nand4_1                  9
+     sg13g2_nor2_1                  37
+     sg13g2_nor2b_1                  5
+     sg13g2_nor3_1                  14
+     sg13g2_nor4_1                   6
+     sg13g2_o21ai_1                 81
+     sg13g2_or2_1                    7
+     sg13g2_or3_1                    2
+     sg13g2_or4_1                    2
+     sg13g2_tiehi                  114
+     sg13g2_tielo                   20
+     sg13g2_xnor2_1                  9
+     sg13g2_xor2_1                  23
+
+   Chip area for top module '\tt_um_daobaanh_rng': 12566.005200
+     of which used for sequential elements: 47.174400 (0.38%)
+
