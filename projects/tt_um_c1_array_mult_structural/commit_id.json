@@ -1,9 +1,0 @@
-{
-  "app": "Tiny Tapeout tt09 a48b1c74",
-  "repo": "https://github.com/Justin-tech10/tt09-c-1-array-multiplier",
-  "commit": "294e412eee1dc041a7ae303b2916ee9abb757c2d",
-  "workflow_url": "https://github.com/TinyTapeout/tinytapeout-ihp-25a-sources/actions/runs/13824401268",
-  "sort_id": 1731197044620,
-  "openlane_version": "OpenLane2 3.0.0.dev17",
-  "pdk_version": "IHP-Open-PDK 5493e28daf328d28470c45f01705e167c3f8dc63"
-}
