@@ -16,14 +16,14 @@
 | `tt_um_benpayne_ps2_decoder`                                | included |                                            |
 | `tt_um_betz_morse_keyer`                                    | included |                                            |
 | `tt_um_bgr_agolmanesh`                                      | dropped  | custom gds                                 |
-| `tt_um_brailliance`                                         | merged   | `tt_um_tt08_hdl_group`                     |
+| `tt_um_brailliance`                                         | included |                                            |
 | `tt_um_brandonramos_VGA_Pong_with_NES_Controllers`          | included |                                            |
 | `tt_um_bytex64_munch`                                       | included |                                            |
 | `tt_um_cattuto_sr_latch`                                    | included |                                            |
 | `tt_um_cejmu`                                               | included |                                            |
 | `tt_um_cfib_demo`                                           | included |                                            |
 | `tt_um_chip_rom`                                            | dropped  | duplicate on tt10                          |
-| `tt_um_clock_divider_arghunter`                             | merged   | `tt_um_tt08_hdl_group`                     |
+| `tt_um_clock_divider_arghunter`                             | included |                                            |
 | `tt_um_comm_ic_bhavuk`                                      | dropped  | failed rehardening                         |
 | `tt_um_crispy_vga`                                          | included |                                            |
 | `tt_um_daosvik_aesinvsbox`                                  | included |                                            |
@@ -35,12 +35,12 @@
 | `tt_um_dlmiles_poc_fskmodem_hdlctrx`                        | included |                                            |
 | `tt_um_dlmiles_tt08_poc_uart`                               | included |                                            |
 | `tt_um_dmtd_arghunter`                                      | included |                                            |
-| `tt_um_dpmu`                                                | merged   | `tt_um_tt08_hdl_group`                     |
-| `tt_um_dpmunit`                                             | merged   | `tt_um_tt08_hdl_group`                     |
+| `tt_um_dpmu`                                                | included |                                            |
+| `tt_um_dpmunit`                                             | included |                                            |
 | `tt_um_edwintorok`                                          | included |                                            |
-| `tt_um_Electom_cla_4bits`                                   | merged   | `tt_um_tt08_hdl_group`                     |
+| `tt_um_Electom_cla_4bits`                                   | included |                                            |
 | `tt_um_emilian_muxpga`                                      | included |                                            |
-| `tt_um_emmyxu_obstacle_detection`                           | merged   | `tt_um_tt08_hdl_group`                     |
+| `tt_um_emmyxu_obstacle_detection`                           | included |                                            |
 | `tt_um_ephrenm_tsal`                                        | included |                                            |
 | `tt_um_ezchips_calc`                                        | included |                                            |
 | `tt_um_factory_test`                                        | dropped  | duplicate on tt10                          |
@@ -48,7 +48,7 @@
 | `tt_um_faramire_stopwatch`                                  | included |                                            |
 | `tt_um_favoritohjs_scroller`                                | included |                                            |
 | `tt_um_find_the_damn_issue`                                 | included |                                            |
-| `tt_um_fountaincoder_top_ad`                                | merged   | `tt_um_tt08_hdl_group`                     |
+| `tt_um_fountaincoder_top_ad`                                | included |                                            |
 | `tt_um_frequency_counter`                                   | dropped  | duplicate on tt09                          |
 | `tt_um_georgboecherer_vco`                                  | dropped  | custom gds                                 |
 | `tt_um_gfg_development_tinymandelbrot`                      | included |                                            |
@@ -57,14 +57,14 @@
 | `tt_um_htfab_pi_snake`                                      | dropped  | custom gds                                 |
 | `tt_um_i2c_peripheral_stevej`                               | included |                                            |
 | `tt_um_i2s_to_pwm_arghunter`                                | included |                                            |
-| `tt_um_JAC_EE_segdecode`                                    | merged   | `tt_um_tt08_hdl_group`                     |
+| `tt_um_JAC_EE_segdecode`                                    | included |                                            |
 | `tt_um_jayjaywong12`                                        | included |                                            |
 | `tt_um_jmack2201`                                           | included |                                            |
 | `tt_um_johshoff_metaballs`                                  | included |                                            |
-| `tt_um_kapilan_alarm`                                       | merged   | `tt_um_tt08_hdl_group`                     |
-| `tt_um_kb2ghz_xalu`                                         | merged   | `tt_um_tt08_hdl_group`                     |
+| `tt_um_kapilan_alarm`                                       | included |                                            |
+| `tt_um_kb2ghz_xalu`                                         | included |                                            |
 | `tt_um_LnL_SoC`                                             | dropped  | failed rehardening                         |
-| `tt_um_mac`                                                 | merged   | `tt_um_tt08_hdl_group`                     |
+| `tt_um_mac`                                                 | included |                                            |
 | `tt_um_mattvenn_analog_ring_osc`                            | dropped  | custom gds                                 |
 | `tt_um_mattvenn_r2r_dac_3v3`                                | dropped  | custom gds                                 |
 | `tt_um_mattvenn_rgb_mixer`                                  | included |                                            |
@@ -94,14 +94,14 @@
 | `tt_um_rejunity_vga_logo`                                   | dropped  | duplicate on tt09                          |
 | `tt_um_rejunity_vga_test01`                                 | dropped  | duplicate on tt09                          |
 | `tt_um_resfuzzy`                                            | included |                                            |
-| `tt_um_Richard28277`                                        | merged   | `tt_um_tt08_hdl_group`                     |
-| `tt_um_ring_divider`                                        | merged   | `tt_um_tt08_hdl_group`                     |
+| `tt_um_Richard28277`                                        | included |                                            |
+| `tt_um_ring_divider`                                        | included |                                            |
 | `tt_um_rom_test`                                            | dropped  | custom gds                                 |
 | `tt_um_roy1707018`                                          | included |                                            |
 | `tt_um_samuelm_pwm_generator`                               | included |                                            |
 | `tt_um_shiftreg_test`                                       | dropped  | custom gds                                 |
 | `tt_um_shuangyu_top`                                        | included |                                            |
-| `tt_um_sign_addsub`                                         | merged   | `tt_um_tt08_hdl_group`                     |
+| `tt_um_sign_addsub`                                         | included |                                            |
 | `tt_um_silice`                                              | included |                                            |
 | `tt_um_simon_cipher`                                        | included |                                            |
 | `tt_um_ssp_opamp`                                           | dropped  | custom gds                                 |
@@ -113,7 +113,7 @@
 | `tt_um_tinytapeout_logo_screensaver`                        | dropped  | duplicate on tt10                          |
 | `tt_um_tmkong_rgb_mixer`                                    | included |                                            |
 | `tt_um_tnt_diff_rx`                                         | dropped  | custom gds                                 |
-| `tt_um_toivoh_demo`                                         | dropped  | duplicate on tt09                          |
+| `tt_um_toivoh_demo`                                         | included | renamed to `tt_um_toivoh_demo_tt08`        |
 | `tt_um_toivoh_demo_deluxe`                                  | included |                                            |
 | `tt_um_tommythorn_maxbw`                                    | included |                                            |
 | `tt_um_top`                                                 | included |                                            |
@@ -126,7 +126,7 @@
 | `tt_um_vga_glyph_mode`                                      | included |                                            |
 | `tt_um_wakki_0123_Raw_Transistors`                          | dropped  | custom gds                                 |
 | `tt_um_whynot`                                              | included |                                            |
-| `tt_um_wokwi_407306064811090945`                            | merged   | `tt_um_tt08_hdl_group`                     |
+| `tt_um_wokwi_407306064811090945`                            | included |                                            |
 | `tt_um_wokwi_407760296956596225`                            | merged   | `tt_um_wokwi_group_12`                     |
 | `tt_um_wokwi_407852791999030273`                            | merged   | `tt_um_wokwi_group_12`                     |
 | `tt_um_wokwi_408118380088342529`                            | merged   | `tt_um_wokwi_group_12`                     |
@@ -329,7 +329,7 @@
 | `tt_um_tnt_rom_nolvt_test`                                  | dropped  | custom gds                                 |
 | `tt_um_tnt_rom_test`                                        | dropped  | custom gds                                 |
 | `tt_um_tobimckellar_top`                                    | included |                                            |
-| `tt_um_toivoh_demo`                                         | dropped  | failed rehardening                         |
+| `tt_um_toivoh_demo`                                         | dropped  | duplicate on tt08                          |
 | `tt_um_toivoh_pio_ram_emu_example`                          | included |                                            |
 | `tt_um_tommythorn_cgates`                                   | included |                                            |
 | `tt_um_tommythorn_workshop`                                 | included |                                            |
