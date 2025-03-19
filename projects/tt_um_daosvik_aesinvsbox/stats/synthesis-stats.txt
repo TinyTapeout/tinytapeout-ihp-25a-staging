@@ -1,0 +1,652 @@
+103. Printing statistics.
+
+=== a211o ===
+
+   Number of wires:                  6
+   Number of wire bits:              6
+   Number of public wires:           5
+   Number of public wire bits:       5
+   Number of ports:                  5
+   Number of port bits:              5
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  2
+     sg13g2_and2_1                   1
+     sg13g2_or3_1                    1
+
+   Chip area for module '\a211o': 21.772800
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== a211oi ===
+
+   Number of wires:                  6
+   Number of wire bits:              6
+   Number of public wires:           5
+   Number of public wire bits:       5
+   Number of ports:                  5
+   Number of port bits:              5
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  2
+     sg13g2_and2_1                   1
+     sg13g2_nor3_1                   1
+
+   Chip area for module '\a211oi': 18.144000
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== a21boi ===
+
+   Number of wires:                  5
+   Number of wire bits:              5
+   Number of public wires:           4
+   Number of public wire bits:       4
+   Number of ports:                  4
+   Number of port bits:              4
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  2
+     sg13g2_a21oi_1                  1
+     sg13g2_inv_1                    1
+
+   Chip area for module '\a21boi': 14.515200
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== a21o ===
+
+   Number of wires:                  4
+   Number of wire bits:              4
+   Number of public wires:           4
+   Number of public wire bits:       4
+   Number of ports:                  4
+   Number of port bits:              4
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_a21o_1                   1
+
+   Chip area for module '\a21o': 12.700800
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== a21oi ===
+
+   Number of wires:                  4
+   Number of wire bits:              4
+   Number of public wires:           4
+   Number of public wire bits:       4
+   Number of ports:                  4
+   Number of port bits:              4
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_a21oi_1                  1
+
+   Chip area for module '\a21oi': 9.072000
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== a221oi ===
+
+   Number of wires:                  6
+   Number of wire bits:              6
+   Number of public wires:           6
+   Number of public wire bits:       6
+   Number of ports:                  6
+   Number of port bits:              6
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_a221oi_1                 1
+
+   Chip area for module '\a221oi': 14.515200
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== a22oi ===
+
+   Number of wires:                  5
+   Number of wire bits:              5
+   Number of public wires:           5
+   Number of public wire bits:       5
+   Number of ports:                  5
+   Number of port bits:              5
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_a22oi_1                  1
+
+   Chip area for module '\a22oi': 10.848600
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== a31oi ===
+
+   Number of wires:                  6
+   Number of wire bits:              6
+   Number of public wires:           5
+   Number of public wire bits:       5
+   Number of ports:                  5
+   Number of port bits:              5
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  2
+     sg13g2_nand3_1                  1
+     sg13g2_nor2b_1                  1
+
+   Chip area for module '\a31oi': 18.144000
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== and2 ===
+
+   Number of wires:                  3
+   Number of wire bits:              3
+   Number of public wires:           3
+   Number of public wire bits:       3
+   Number of ports:                  3
+   Number of port bits:              3
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_and2_1                   1
+
+   Chip area for module '\and2': 9.072000
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== and3 ===
+
+   Number of wires:                  4
+   Number of wire bits:              4
+   Number of public wires:           4
+   Number of public wire bits:       4
+   Number of ports:                  4
+   Number of port bits:              4
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_and3_1                   1
+
+   Chip area for module '\and3': 12.700800
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== and3b ===
+
+   Number of wires:                  5
+   Number of wire bits:              5
+   Number of public wires:           4
+   Number of public wire bits:       4
+   Number of ports:                  4
+   Number of port bits:              4
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  2
+     sg13g2_nand2_1                  1
+     sg13g2_nor2_1                   1
+
+   Chip area for module '\and3b': 14.515200
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== inv ===
+
+   Number of wires:                  2
+   Number of wire bits:              2
+   Number of public wires:           2
+   Number of public wire bits:       2
+   Number of ports:                  2
+   Number of port bits:              2
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_inv_1                    1
+
+   Chip area for module '\inv': 5.443200
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== nand2 ===
+
+   Number of wires:                  3
+   Number of wire bits:              3
+   Number of public wires:           3
+   Number of public wire bits:       3
+   Number of ports:                  3
+   Number of port bits:              3
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_nand2_1                  1
+
+   Chip area for module '\nand2': 7.257600
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== nand2b ===
+
+   Number of wires:                  3
+   Number of wire bits:              3
+   Number of public wires:           3
+   Number of public wire bits:       3
+   Number of ports:                  3
+   Number of port bits:              3
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_nand2b_1                 1
+
+   Chip area for module '\nand2b': 9.072000
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== nand3 ===
+
+   Number of wires:                  4
+   Number of wire bits:              4
+   Number of public wires:           4
+   Number of public wire bits:       4
+   Number of ports:                  4
+   Number of port bits:              4
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_nand3_1                  1
+
+   Chip area for module '\nand3': 9.072000
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== nand3b ===
+
+   Number of wires:                  4
+   Number of wire bits:              4
+   Number of public wires:           4
+   Number of public wire bits:       4
+   Number of ports:                  4
+   Number of port bits:              4
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_nand3b_1                 1
+
+   Chip area for module '\nand3b': 12.700800
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== nand4 ===
+
+   Number of wires:                  5
+   Number of wire bits:              5
+   Number of public wires:           5
+   Number of public wire bits:       5
+   Number of ports:                  5
+   Number of port bits:              5
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_nand4_1                  1
+
+   Chip area for module '\nand4': 10.886400
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== nor2 ===
+
+   Number of wires:                  3
+   Number of wire bits:              3
+   Number of public wires:           3
+   Number of public wire bits:       3
+   Number of ports:                  3
+   Number of port bits:              3
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_nor2_1                   1
+
+   Chip area for module '\nor2': 7.257600
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== nor2b ===
+
+   Number of wires:                  3
+   Number of wire bits:              3
+   Number of public wires:           3
+   Number of public wire bits:       3
+   Number of ports:                  3
+   Number of port bits:              3
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_nor2b_1                  1
+
+   Chip area for module '\nor2b': 9.072000
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== nor3 ===
+
+   Number of wires:                  4
+   Number of wire bits:              4
+   Number of public wires:           4
+   Number of public wire bits:       4
+   Number of ports:                  4
+   Number of port bits:              4
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_nor3_1                   1
+
+   Chip area for module '\nor3': 9.072000
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== nor3b ===
+
+   Number of wires:                  5
+   Number of wire bits:              5
+   Number of public wires:           4
+   Number of public wire bits:       4
+   Number of ports:                  4
+   Number of port bits:              4
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  2
+     sg13g2_inv_1                    1
+     sg13g2_nor3_1                   1
+
+   Chip area for module '\nor3b': 14.515200
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== nor4 ===
+
+   Number of wires:                  5
+   Number of wire bits:              5
+   Number of public wires:           5
+   Number of public wire bits:       5
+   Number of ports:                  5
+   Number of port bits:              5
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_nor4_1                   1
+
+   Chip area for module '\nor4': 10.886400
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== o211ai ===
+
+   Number of wires:                  6
+   Number of wire bits:              6
+   Number of public wires:           5
+   Number of public wire bits:       5
+   Number of ports:                  5
+   Number of port bits:              5
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  2
+     sg13g2_nand3_1                  1
+     sg13g2_or2_1                    1
+
+   Chip area for module '\o211ai': 18.144000
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== o21a ===
+
+   Number of wires:                  5
+   Number of wire bits:              5
+   Number of public wires:           4
+   Number of public wire bits:       4
+   Number of ports:                  4
+   Number of port bits:              4
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  2
+     sg13g2_inv_1                    1
+     sg13g2_o21ai_1                  1
+
+   Chip area for module '\o21a': 14.515200
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== o21ai ===
+
+   Number of wires:                  4
+   Number of wire bits:              4
+   Number of public wires:           4
+   Number of public wire bits:       4
+   Number of ports:                  4
+   Number of port bits:              4
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_o21ai_1                  1
+
+   Chip area for module '\o21ai': 9.072000
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== o22ai ===
+
+   Number of wires:                  6
+   Number of wire bits:              6
+   Number of public wires:           5
+   Number of public wire bits:       5
+   Number of ports:                  5
+   Number of port bits:              5
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  2
+     sg13g2_o21ai_1                  1
+     sg13g2_or2_1                    1
+
+   Chip area for module '\o22ai': 18.144000
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== o31a ===
+
+   Number of wires:                  6
+   Number of wire bits:              6
+   Number of public wires:           5
+   Number of public wire bits:       5
+   Number of ports:                  5
+   Number of port bits:              5
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  2
+     sg13g2_nor2b_1                  1
+     sg13g2_nor3_1                   1
+
+   Chip area for module '\o31a': 18.144000
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== or2 ===
+
+   Number of wires:                  3
+   Number of wire bits:              3
+   Number of public wires:           3
+   Number of public wire bits:       3
+   Number of ports:                  3
+   Number of port bits:              3
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_or2_1                    1
+
+   Chip area for module '\or2': 9.072000
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== or3 ===
+
+   Number of wires:                  4
+   Number of wire bits:              4
+   Number of public wires:           4
+   Number of public wire bits:       4
+   Number of ports:                  4
+   Number of port bits:              4
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_or3_1                    1
+
+   Chip area for module '\or3': 12.700800
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== tt_um_daosvik_aesinvsbox ===
+
+   Number of wires:                429
+   Number of wire bits:            464
+   Number of public wires:         413
+   Number of public wire bits:     448
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                437
+     a211o                           3
+     a211oi                          4
+     a21boi                          1
+     a21o                            3
+     a21oi                          51
+     a221oi                          2
+     a22oi                          32
+     a31oi                          39
+     and2                            7
+     and3                           18
+     and3b                           5
+     inv                             3
+     nand2                          13
+     nand2b                         24
+     nand3                          11
+     nand3b                          1
+     nand4                           9
+     nor2                           12
+     nor2b                          26
+     nor3                           12
+     nor3b                           5
+     nor4                            3
+     o211ai                          4
+     o21a                            1
+     o21ai                          16
+     o22ai                          71
+     o31a                            1
+     or2                             5
+     or3                            23
+     sg13g2_buf_1                    8
+     sg13g2_dfrbp_1                  8
+     sg13g2_tiehi                   16
+
+   Area for cell type \and3 is unknown!
+   Area for cell type \and3b is unknown!
+   Area for cell type \nor3b is unknown!
+   Area for cell type \nor3 is unknown!
+   Area for cell type \nor2b is unknown!
+   Area for cell type \nor2 is unknown!
+   Area for cell type \nor4 is unknown!
+   Area for cell type \o22ai is unknown!
+   Area for cell type \a21oi is unknown!
+   Area for cell type \a31oi is unknown!
+   Area for cell type \o21ai is unknown!
+   Area for cell type \a21o is unknown!
+   Area for cell type \o211ai is unknown!
+   Area for cell type \a221oi is unknown!
+   Area for cell type \a21boi is unknown!
+   Area for cell type \o31a is unknown!
+   Area for cell type \nand2 is unknown!
+   Area for cell type \a211oi is unknown!
+   Area for cell type \a211o is unknown!
+   Area for cell type \or3 is unknown!
+   Area for cell type \and2 is unknown!
+   Area for cell type \nand2b is unknown!
+   Area for cell type \o21a is unknown!
+   Area for cell type \nand3 is unknown!
+   Area for cell type \nand3b is unknown!
+   Area for cell type \or2 is unknown!
+   Area for cell type \inv is unknown!
+   Area for cell type \nand4 is unknown!
+   Area for cell type \a22oi is unknown!
+
+   Chip area for module '\tt_um_daosvik_aesinvsbox': 551.577600
+     of which used for sequential elements: 377.395200 (68.42%)
+
+=== design hierarchy ===
+
+   tt_um_daosvik_aesinvsbox          1
+     a211o                           3
+     a211oi                          4
+     a21boi                          1
+     a21o                            3
+     a21oi                          51
+     a221oi                          2
+     a22oi                          32
+     a31oi                          39
+     and2                            7
+     and3                           18
+     and3b                           5
+     inv                             3
+     nand2                          13
+     nand2b                         24
+     nand3                          11
+     nand3b                          1
+     nand4                           9
+     nor2                           12
+     nor2b                          26
+     nor3                           12
+     nor3b                           5
+     nor4                            3
+     o211ai                          4
+     o21a                            1
+     o21ai                          16
+     o22ai                          71
+     o31a                            1
+     or2                             5
+     or3                            23
+
+   Number of wires:               2260
+   Number of wire bits:           2295
+   Number of public wires:        2110
+   Number of public wire bits:    2145
+   Number of ports:               1705
+   Number of port bits:           1740
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                571
+     sg13g2_a21o_1                   3
+     sg13g2_a21oi_1                 52
+     sg13g2_a221oi_1                 2
+     sg13g2_a22oi_1                 32
+     sg13g2_and2_1                  14
+     sg13g2_and3_1                  18
+     sg13g2_buf_1                    8
+     sg13g2_dfrbp_1                  8
+     sg13g2_inv_1                   10
+     sg13g2_nand2_1                 18
+     sg13g2_nand2b_1                24
+     sg13g2_nand3_1                 54
+     sg13g2_nand3b_1                 1
+     sg13g2_nand4_1                  9
+     sg13g2_nor2_1                  17
+     sg13g2_nor2b_1                 66
+     sg13g2_nor3_1                  22
+     sg13g2_nor4_1                   3
+     sg13g2_o21ai_1                 88
+     sg13g2_or2_1                   80
+     sg13g2_or3_1                   26
+     sg13g2_tiehi                   16
+
+   Chip area for top module '\tt_um_daosvik_aesinvsbox': 5605.286400
+     of which used for sequential elements: 0.000000 (0.00%)
+

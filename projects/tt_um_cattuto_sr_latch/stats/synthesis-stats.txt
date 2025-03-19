@@ -1,0 +1,23 @@
+101. Printing statistics.
+
+=== tt_um_cattuto_sr_latch ===
+
+   Number of wires:               1545
+   Number of wire bits:           1580
+   Number of public wires:        1545
+   Number of public wire bits:    1580
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               1561
+     sg13g2_buf_1                    1
+     sg13g2_dlhq_1                 512
+     sg13g2_inv_1                 1024
+     sg13g2_tielo                   23
+     sg13g2_xor2_1                   1
+
+   Chip area for module '\tt_um_cattuto_sr_latch': 21555.072000
+     of which used for sequential elements: 0.000000 (0.00%)
+

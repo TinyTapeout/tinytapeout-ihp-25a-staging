@@ -1,0 +1,46 @@
+164. Printing statistics.
+
+=== tt_um_a1k0n_vgadonut ===
+
+   Number of wires:               7838
+   Number of wire bits:           7873
+   Number of public wires:         394
+   Number of public wire bits:     429
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               7450
+     sg13g2_a21o_1                 221
+     sg13g2_a21oi_1                725
+     sg13g2_a221oi_1                70
+     sg13g2_a22oi_1                128
+     sg13g2_and2_1                 185
+     sg13g2_and3_1                  35
+     sg13g2_and4_1                  25
+     sg13g2_buf_1                    2
+     sg13g2_dfrbp_1                404
+     sg13g2_inv_1                  328
+     sg13g2_mux2_1                  54
+     sg13g2_nand2_1                659
+     sg13g2_nand2b_1               270
+     sg13g2_nand3_1                240
+     sg13g2_nand3b_1                18
+     sg13g2_nand4_1                 46
+     sg13g2_nor2_1                 673
+     sg13g2_nor2b_1                245
+     sg13g2_nor3_1                 115
+     sg13g2_nor4_1                  27
+     sg13g2_o21ai_1                740
+     sg13g2_or2_1                  122
+     sg13g2_or3_1                   46
+     sg13g2_or4_1                    5
+     sg13g2_tiehi                  255
+     sg13g2_tielo                   16
+     sg13g2_xnor2_1               1218
+     sg13g2_xor2_1                 578
+
+   Chip area for module '\tt_um_a1k0n_vgadonut': 91208.678400
+     of which used for sequential elements: 19058.457600 (20.90%)
+

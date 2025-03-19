@@ -1,0 +1,45 @@
+139. Printing statistics.
+
+=== tt_um_resfuzzy ===
+
+   Number of wires:               1044
+   Number of wire bits:           1079
+   Number of public wires:          43
+   Number of public wire bits:      78
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               1017
+     sg13g2_a21o_1                  28
+     sg13g2_a21oi_1                 99
+     sg13g2_a221oi_1                13
+     sg13g2_a22oi_1                 16
+     sg13g2_and2_1                  29
+     sg13g2_and3_1                   9
+     sg13g2_and4_1                   5
+     sg13g2_dfrbp_1                 43
+     sg13g2_inv_1                   58
+     sg13g2_mux2_1                  33
+     sg13g2_nand2_1                 82
+     sg13g2_nand2b_1                35
+     sg13g2_nand3_1                 39
+     sg13g2_nand3b_1                 8
+     sg13g2_nand4_1                 11
+     sg13g2_nor2_1                 105
+     sg13g2_nor2b_1                 25
+     sg13g2_nor3_1                  34
+     sg13g2_nor4_1                   7
+     sg13g2_o21ai_1                110
+     sg13g2_or2_1                   25
+     sg13g2_or3_1                   11
+     sg13g2_or4_1                    2
+     sg13g2_tiehi                   43
+     sg13g2_tielo                   16
+     sg13g2_xnor2_1                 89
+     sg13g2_xor2_1                  42
+
+   Chip area for module '\tt_um_resfuzzy': 11593.411200
+     of which used for sequential elements: 2028.499200 (17.50%)
+

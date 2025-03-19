@@ -1,0 +1,46 @@
+173. Printing statistics.
+
+=== tt_um_find_the_damn_issue ===
+
+   Number of wires:               5543
+   Number of wire bits:           5578
+   Number of public wires:        1108
+   Number of public wire bits:    1143
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               4741
+     sg13g2_a21o_1                  63
+     sg13g2_a21oi_1                436
+     sg13g2_a221oi_1                63
+     sg13g2_a22oi_1                 94
+     sg13g2_and2_1                 127
+     sg13g2_and3_1                  31
+     sg13g2_and4_1                   4
+     sg13g2_buf_1                   15
+     sg13g2_dfrbp_1                818
+     sg13g2_inv_1                  163
+     sg13g2_mux2_1                 320
+     sg13g2_mux4_1                   5
+     sg13g2_nand2_1                388
+     sg13g2_nand2b_1                91
+     sg13g2_nand3_1                105
+     sg13g2_nand3b_1                19
+     sg13g2_nand4_1                 57
+     sg13g2_nor2_1                 497
+     sg13g2_nor2b_1                 97
+     sg13g2_nor3_1                 153
+     sg13g2_nor4_1                  70
+     sg13g2_o21ai_1                297
+     sg13g2_or2_1                   37
+     sg13g2_or3_1                   19
+     sg13g2_or4_1                    9
+     sg13g2_tiehi                  511
+     sg13g2_xnor2_1                148
+     sg13g2_xor2_1                 104
+
+   Chip area for module '\tt_um_find_the_damn_issue': 76736.494800
+     of which used for sequential elements: 38588.659200 (50.29%)
+

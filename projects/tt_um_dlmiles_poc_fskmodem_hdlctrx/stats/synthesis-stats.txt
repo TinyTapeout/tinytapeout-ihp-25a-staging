@@ -1,0 +1,48 @@
+163. Printing statistics.
+
+=== tt_um_dlmiles_poc_fskmodem_hdlctrx ===
+
+   Number of wires:               2093
+   Number of wire bits:           2128
+   Number of public wires:         303
+   Number of public wire bits:     338
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               1832
+     sg13g2_a21o_1                  22
+     sg13g2_a21oi_1                199
+     sg13g2_a221oi_1                22
+     sg13g2_a22oi_1                 39
+     sg13g2_and2_1                  44
+     sg13g2_and3_1                  15
+     sg13g2_and4_1                   9
+     sg13g2_buf_1                   15
+     sg13g2_dfrbp_1                277
+     sg13g2_dllrq_1                  9
+     sg13g2_inv_1                  106
+     sg13g2_mux2_1                  29
+     sg13g2_mux4_1                   1
+     sg13g2_nand2_1                144
+     sg13g2_nand2b_1                27
+     sg13g2_nand3_1                 84
+     sg13g2_nand3b_1                 5
+     sg13g2_nand4_1                  6
+     sg13g2_nor2_1                 147
+     sg13g2_nor2b_1                 35
+     sg13g2_nor3_1                  47
+     sg13g2_nor4_1                  13
+     sg13g2_o21ai_1                194
+     sg13g2_or2_1                   12
+     sg13g2_or3_1                    3
+     sg13g2_or4_1                    1
+     sg13g2_tiehi                  286
+     sg13g2_tielo                    3
+     sg13g2_xnor2_1                 27
+     sg13g2_xor2_1                  11
+
+   Chip area for module '\tt_um_dlmiles_poc_fskmodem_hdlctrx': 26829.873000
+     of which used for sequential elements: 13067.308800 (48.70%)
+

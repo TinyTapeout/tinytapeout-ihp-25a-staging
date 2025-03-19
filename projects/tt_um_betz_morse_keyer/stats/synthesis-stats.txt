@@ -1,0 +1,45 @@
+148. Printing statistics.
+
+=== tt_um_betz_morse_keyer ===
+
+   Number of wires:                781
+   Number of wire bits:            816
+   Number of public wires:         122
+   Number of public wire bits:     157
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                677
+     sg13g2_a21o_1                  21
+     sg13g2_a21oi_1                 31
+     sg13g2_a221oi_1                13
+     sg13g2_a22oi_1                 39
+     sg13g2_and2_1                  13
+     sg13g2_and3_1                   7
+     sg13g2_and4_1                   9
+     sg13g2_buf_1                    4
+     sg13g2_dfrbp_1                120
+     sg13g2_inv_1                   57
+     sg13g2_mux2_1                  16
+     sg13g2_nand2_1                 55
+     sg13g2_nand2b_1                21
+     sg13g2_nand3_1                 13
+     sg13g2_nand4_1                  9
+     sg13g2_nor2_1                  46
+     sg13g2_nor2b_1                 23
+     sg13g2_nor3_1                  29
+     sg13g2_nor4_1                  13
+     sg13g2_o21ai_1                 85
+     sg13g2_or2_1                   14
+     sg13g2_or3_1                    3
+     sg13g2_or4_1                    3
+     sg13g2_tiehi                   11
+     sg13g2_tielo                    8
+     sg13g2_xnor2_1                  8
+     sg13g2_xor2_1                   6
+
+   Chip area for module '\tt_um_betz_morse_keyer': 10861.338600
+     of which used for sequential elements: 5660.928000 (52.12%)
+

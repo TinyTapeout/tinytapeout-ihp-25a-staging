@@ -1,0 +1,137 @@
+164. Printing statistics.
+
+=== tt_um_zoom_zoom ===
+
+   Number of wires:               7649
+   Number of wire bits:           7684
+   Number of public wires:         655
+   Number of public wire bits:     690
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               7011
+     sg13g2_a21o_1                  87
+     sg13g2_a21oi_1                945
+     sg13g2_a221oi_1               170
+     sg13g2_a22oi_1                502
+     sg13g2_and2_1                  98
+     sg13g2_and3_1                  38
+     sg13g2_and4_1                  39
+     sg13g2_buf_1                   13
+     sg13g2_dfrbp_1                646
+     sg13g2_inv_1                  429
+     sg13g2_mux2_1                 295
+     sg13g2_mux4_1                  63
+     sg13g2_nand2_1                563
+     sg13g2_nand2b_1               197
+     sg13g2_nand3_1                162
+     sg13g2_nand3b_1                30
+     sg13g2_nand4_1                 90
+     sg13g2_nor2_1                 767
+     sg13g2_nor2b_1                111
+     sg13g2_nor3_1                 266
+     sg13g2_nor4_1                 136
+     sg13g2_o21ai_1                960
+     sg13g2_or2_1                   89
+     sg13g2_or3_1                   10
+     sg13g2_or4_1                   22
+     sg13g2_tiehi                    5
+     sg13g2_tielo                    2
+     sg13g2_xnor2_1                152
+     sg13g2_xor2_1                 123
+     uart_rx                         1
+
+   Area for cell type \uart_rx is unknown!
+
+   Chip area for module '\tt_um_zoom_zoom': 93362.749200
+     of which used for sequential elements: 30474.662400 (32.64%)
+
+=== uart_rx ===
+
+   Number of wires:                381
+   Number of wire bits:            400
+   Number of public wires:          47
+   Number of public wire bits:      66
+   Number of ports:                  7
+   Number of port bits:             26
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                334
+     sg13g2_a21o_1                  16
+     sg13g2_a21oi_1                 31
+     sg13g2_a221oi_1                 6
+     sg13g2_a22oi_1                 12
+     sg13g2_and2_1                   3
+     sg13g2_and4_1                   3
+     sg13g2_dfrbp_1                 49
+     sg13g2_inv_1                   70
+     sg13g2_mux2_1                   7
+     sg13g2_nand2_1                 22
+     sg13g2_nand2b_1                 9
+     sg13g2_nand3_1                  7
+     sg13g2_nand3b_1                 4
+     sg13g2_nand4_1                  1
+     sg13g2_nor2_1                  19
+     sg13g2_nor2b_1                 14
+     sg13g2_nor3_1                   5
+     sg13g2_nor4_1                   3
+     sg13g2_o21ai_1                 31
+     sg13g2_or2_1                    4
+     sg13g2_or4_1                    2
+     sg13g2_xnor2_1                  6
+     sg13g2_xor2_1                  10
+
+   Chip area for module '\uart_rx': 4880.282400
+     of which used for sequential elements: 2311.545600 (47.36%)
+
+=== design hierarchy ===
+
+   tt_um_zoom_zoom                   1
+     uart_rx                         1
+
+   Number of wires:               8030
+   Number of wire bits:           8084
+   Number of public wires:         702
+   Number of public wire bits:     756
+   Number of ports:                 15
+   Number of port bits:             69
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               7344
+     sg13g2_a21o_1                 103
+     sg13g2_a21oi_1                976
+     sg13g2_a221oi_1               176
+     sg13g2_a22oi_1                514
+     sg13g2_and2_1                 101
+     sg13g2_and3_1                  38
+     sg13g2_and4_1                  42
+     sg13g2_buf_1                   13
+     sg13g2_dfrbp_1                695
+     sg13g2_inv_1                  499
+     sg13g2_mux2_1                 302
+     sg13g2_mux4_1                  63
+     sg13g2_nand2_1                585
+     sg13g2_nand2b_1               206
+     sg13g2_nand3_1                169
+     sg13g2_nand3b_1                34
+     sg13g2_nand4_1                 91
+     sg13g2_nor2_1                 786
+     sg13g2_nor2b_1                125
+     sg13g2_nor3_1                 271
+     sg13g2_nor4_1                 139
+     sg13g2_o21ai_1                991
+     sg13g2_or2_1                   93
+     sg13g2_or3_1                   10
+     sg13g2_or4_1                   24
+     sg13g2_tiehi                    5
+     sg13g2_tielo                    2
+     sg13g2_xnor2_1                158
+     sg13g2_xor2_1                 133
+
+   Chip area for top module '\tt_um_zoom_zoom': 98243.031600
+     of which used for sequential elements: 2311.545600 (2.35%)
+

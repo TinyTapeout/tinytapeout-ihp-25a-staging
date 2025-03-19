@@ -1,0 +1,47 @@
+158. Printing statistics.
+
+=== tt_um_silice ===
+
+   Number of wires:               4127
+   Number of wire bits:           4162
+   Number of public wires:         344
+   Number of public wire bits:     379
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               3882
+     sg13g2_a21o_1                  71
+     sg13g2_a21oi_1                275
+     sg13g2_a221oi_1                17
+     sg13g2_a22oi_1                 98
+     sg13g2_and2_1                 151
+     sg13g2_and3_1                  29
+     sg13g2_and4_1                   8
+     sg13g2_buf_1                    1
+     sg13g2_dfrbp_1                261
+     sg13g2_inv_1                  165
+     sg13g2_mux2_1                  12
+     sg13g2_mux4_1                   4
+     sg13g2_nand2_1                380
+     sg13g2_nand2b_1               117
+     sg13g2_nand3_1                102
+     sg13g2_nand3b_1                10
+     sg13g2_nand4_1                 40
+     sg13g2_nor2_1                 394
+     sg13g2_nor2b_1                144
+     sg13g2_nor3_1                  97
+     sg13g2_nor4_1                  31
+     sg13g2_o21ai_1                307
+     sg13g2_or2_1                   60
+     sg13g2_or3_1                   21
+     sg13g2_or4_1                    4
+     sg13g2_tiehi                  262
+     sg13g2_tielo                   14
+     sg13g2_xnor2_1                513
+     sg13g2_xor2_1                 294
+
+   Chip area for module '\tt_um_silice': 48210.346800
+     of which used for sequential elements: 12312.518400 (25.54%)
+

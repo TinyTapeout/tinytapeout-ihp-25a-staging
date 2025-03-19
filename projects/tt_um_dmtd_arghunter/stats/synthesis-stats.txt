@@ -1,0 +1,36 @@
+109. Printing statistics.
+
+=== tt_um_dmtd_arghunter ===
+
+   Number of wires:                426
+   Number of wire bits:            461
+   Number of public wires:         144
+   Number of public wire bits:     179
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                308
+     sg13g2_a21o_1                   3
+     sg13g2_a21oi_1                 21
+     sg13g2_a221oi_1                 1
+     sg13g2_a22oi_1                  1
+     sg13g2_and3_1                   8
+     sg13g2_buf_1                    1
+     sg13g2_dfrbp_1                134
+     sg13g2_inv_1                    3
+     sg13g2_mux2_1                  21
+     sg13g2_mux4_1                  16
+     sg13g2_nand2_1                  8
+     sg13g2_nand2b_1                16
+     sg13g2_nor2b_1                 17
+     sg13g2_nor3_1                   4
+     sg13g2_o21ai_1                 28
+     sg13g2_or3_1                    2
+     sg13g2_tielo                   23
+     sg13g2_xnor2_1                  1
+
+   Chip area for module '\tt_um_dmtd_arghunter': 8545.786200
+     of which used for sequential elements: 6321.369600 (73.97%)
+

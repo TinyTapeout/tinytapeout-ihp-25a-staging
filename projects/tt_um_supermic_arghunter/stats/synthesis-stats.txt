@@ -1,0 +1,45 @@
+154. Printing statistics.
+
+=== tt_um_supermic_arghunter ===
+
+   Number of wires:              14424
+   Number of wire bits:          14459
+   Number of public wires:        3707
+   Number of public wire bits:    3742
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:              10741
+     sg13g2_a21o_1                 282
+     sg13g2_a21oi_1                398
+     sg13g2_a221oi_1               119
+     sg13g2_a22oi_1                448
+     sg13g2_and2_1                 173
+     sg13g2_and3_1                  42
+     sg13g2_and4_1                  33
+     sg13g2_buf_1                   10
+     sg13g2_dfrbp_1               3699
+     sg13g2_inv_1                  787
+     sg13g2_mux2_1                 161
+     sg13g2_nand2_1                385
+     sg13g2_nand2b_1               324
+     sg13g2_nand3_1                104
+     sg13g2_nand3b_1                 4
+     sg13g2_nand4_1                 51
+     sg13g2_nor2_1                 184
+     sg13g2_nor2b_1                491
+     sg13g2_nor3_1                  33
+     sg13g2_nor4_1                  12
+     sg13g2_o21ai_1                460
+     sg13g2_or2_1                   17
+     sg13g2_or3_1                    9
+     sg13g2_tiehi                  922
+     sg13g2_tielo                   13
+     sg13g2_xnor2_1               1211
+     sg13g2_xor2_1                 369
+
+   Chip area for module '\tt_um_supermic_arghunter': 245801.606400
+     of which used for sequential elements: 174498.105600 (70.99%)
+

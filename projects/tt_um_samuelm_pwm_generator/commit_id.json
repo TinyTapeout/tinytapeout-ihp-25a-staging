@@ -1,0 +1,9 @@
+{
+  "app": "Tiny Tapeout tt08 587b6cb0",
+  "repo": "https://github.com/MateaSamuel/tt08-pwm-generator",
+  "commit": "731fb9162500ee5c35bdf9be478586b346df94ef",
+  "workflow_url": "https://github.com/TinyTapeout/tinytapeout-ihp-25a-sources/actions/runs/13824401268",
+  "sort_id": 1725618256864,
+  "openlane_version": "OpenLane2 3.0.0.dev17",
+  "pdk_version": "IHP-Open-PDK 5493e28daf328d28470c45f01705e167c3f8dc63"
+}

@@ -1,0 +1,45 @@
+157. Printing statistics.
+
+=== tt_um_dlfloatmac ===
+
+   Number of wires:               1393
+   Number of wire bits:           1428
+   Number of public wires:         122
+   Number of public wire bits:     157
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               1319
+     sg13g2_a21o_1                  37
+     sg13g2_a21oi_1                128
+     sg13g2_a221oi_1                12
+     sg13g2_a22oi_1                 38
+     sg13g2_and2_1                  69
+     sg13g2_and3_1                  17
+     sg13g2_and4_1                   6
+     sg13g2_dfrbp_1                 90
+     sg13g2_inv_1                   44
+     sg13g2_mux2_1                  29
+     sg13g2_mux4_1                   1
+     sg13g2_nand2_1                139
+     sg13g2_nand2b_1                73
+     sg13g2_nand3_1                 58
+     sg13g2_nand3b_1                 5
+     sg13g2_nand4_1                 22
+     sg13g2_nor2_1                 104
+     sg13g2_nor2b_1                 35
+     sg13g2_nor3_1                  36
+     sg13g2_nor4_1                  29
+     sg13g2_o21ai_1                102
+     sg13g2_or2_1                   24
+     sg13g2_or3_1                   20
+     sg13g2_or4_1                    1
+     sg13g2_tielo                   16
+     sg13g2_xnor2_1                109
+     sg13g2_xor2_1                  75
+
+   Chip area for module '\tt_um_dlfloatmac': 16609.395600
+     of which used for sequential elements: 4245.696000 (25.56%)
+

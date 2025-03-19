@@ -1,0 +1,46 @@
+154. Printing statistics.
+
+=== tt_um_demosiine_sda ===
+
+   Number of wires:               1791
+   Number of wire bits:           1826
+   Number of public wires:          81
+   Number of public wire bits:     116
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               1735
+     sg13g2_a21o_1                  35
+     sg13g2_a21oi_1                142
+     sg13g2_a221oi_1                43
+     sg13g2_a22oi_1                 87
+     sg13g2_and2_1                  62
+     sg13g2_and3_1                  13
+     sg13g2_and4_1                   6
+     sg13g2_buf_1                    3
+     sg13g2_dfrbp_1                 72
+     sg13g2_inv_1                   45
+     sg13g2_mux2_1                  10
+     sg13g2_nand2_1                201
+     sg13g2_nand2b_1                37
+     sg13g2_nand3_1                152
+     sg13g2_nand3b_1                17
+     sg13g2_nand4_1                 46
+     sg13g2_nor2_1                 211
+     sg13g2_nor2b_1                 27
+     sg13g2_nor3_1                  68
+     sg13g2_nor4_1                  57
+     sg13g2_o21ai_1                164
+     sg13g2_or2_1                   25
+     sg13g2_or3_1                   15
+     sg13g2_or4_1                    5
+     sg13g2_tiehi                   23
+     sg13g2_tielo                   14
+     sg13g2_xnor2_1                 93
+     sg13g2_xor2_1                  62
+
+   Chip area for module '\tt_um_demosiine_sda': 19359.988200
+     of which used for sequential elements: 3396.556800 (17.54%)
+

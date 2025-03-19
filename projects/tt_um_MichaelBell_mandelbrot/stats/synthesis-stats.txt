@@ -1,0 +1,47 @@
+161. Printing statistics.
+
+=== tt_um_MichaelBell_mandelbrot ===
+
+   Number of wires:               4116
+   Number of wire bits:           4151
+   Number of public wires:         320
+   Number of public wire bits:     355
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               3985
+     sg13g2_a21o_1                 140
+     sg13g2_a21oi_1                332
+     sg13g2_a221oi_1                38
+     sg13g2_a22oi_1                 91
+     sg13g2_and2_1                 136
+     sg13g2_and3_1                  39
+     sg13g2_and4_1                   8
+     sg13g2_buf_1                    3
+     sg13g2_dfrbp_1                147
+     sg13g2_dlhq_1                  87
+     sg13g2_inv_1                  151
+     sg13g2_mux2_1                  47
+     sg13g2_nand2_1                445
+     sg13g2_nand2b_1               165
+     sg13g2_nand3_1                110
+     sg13g2_nand3b_1                 8
+     sg13g2_nand4_1                 13
+     sg13g2_nor2_1                 319
+     sg13g2_nor2b_1                122
+     sg13g2_nor3_1                  63
+     sg13g2_nor4_1                  12
+     sg13g2_o21ai_1                384
+     sg13g2_or2_1                   55
+     sg13g2_or3_1                   19
+     sg13g2_or4_1                    7
+     sg13g2_tiehi                  147
+     sg13g2_tielo                   16
+     sg13g2_xnor2_1                559
+     sg13g2_xor2_1                 322
+
+   Chip area for module '\tt_um_MichaelBell_mandelbrot': 47876.761800
+     of which used for sequential elements: 6934.636800 (14.48%)
+
