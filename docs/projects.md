@@ -147,13 +147,13 @@
 | `tt_um_09eksdee`                                            | included |                                            |
 | `tt_um_13hihi31_tdc`                                        | dropped  | custom gds                                 |
 | `tt_um_2048_vga_game`                                       | dropped  | duplicate on tt10                          |
-| `tt_um_4x4_array_multiplier_NuKoP`                          | included |                                            |
-| `tt_um_4x4multiplier`                                       | included |                                            |
-| `tt_um_a_0_array_multiplier`                                | included |                                            |
+| `tt_um_4x4_array_multiplier_NuKoP`                          | merged   | `tt_um_multiplier_group_1`                 |
+| `tt_um_4x4multiplier`                                       | merged   | `tt_um_multiplier_group_1`                 |
+| `tt_um_a_0_array_multiplier`                                | merged   | `tt_um_multiplier_group_1`                 |
 | `tt_um_a1k0n_nyancat`                                       | included |                                            |
-| `tt_um_a3_array_multiplier`                                 | included |                                            |
-| `tt_um_a_4_array_multiplier`                                | included |                                            |
-| `tt_um_A_6_array_multiplier`                                | included |                                            |
+| `tt_um_a3_array_multiplier`                                 | merged   | `tt_um_multiplier_group_1`                 |
+| `tt_um_a_4_array_multiplier`                                | merged   | `tt_um_multiplier_group_1`                 |
+| `tt_um_A_6_array_multiplier`                                | merged   | `tt_um_multiplier_group_1`                 |
 | `tt_um_adder_accumulator_sathworld`                         | included |                                            |
 | `tt_um_alf19185_ALU`                                        | included |                                            |
 | `tt_um_algofoogle_tt09_ring_osc`                            | included |                                            |
@@ -165,31 +165,31 @@
 | `tt_um_anders_tt_6502`                                      | dropped  | failed rehardening                         |
 | `tt_um_anislam`                                             | included |                                            |
 | `tt_um_arandomdev_fir_engine_top`                           | included |                                            |
-| `tt_um_arrayMultFajrSahana`                                 | included |                                            |
-| `tt_um_array_mult_joe_leighthardt`                          | included |                                            |
-| `tt_um_array_mult_structural`                               | included |                                            |
-| `tt_um_array_mult_structural_GnahsLliw`                     | included |                                            |
-| `tt_um_array_mult_structural_sarahherrera`                  | included |                                            |
-| `tt_um_array_mult_structural_sectionD_group3`               | included |                                            |
+| `tt_um_arrayMultFajrSahana`                                 | merged   | `tt_um_multiplier_group_1`                 |
+| `tt_um_array_mult_joe_leighthardt`                          | merged   | `tt_um_multiplier_group_1`                 |
+| `tt_um_array_mult_structural`                               | merged   | `tt_um_multiplier_group_1`                 |
+| `tt_um_array_mult_structural_GnahsLliw`                     | merged   | `tt_um_multiplier_group_1`                 |
+| `tt_um_array_mult_structural_sarahherrera`                  | merged   | `tt_um_multiplier_group_1`                 |
+| `tt_um_array_mult_structural_sectionD_group3`               | merged   | `tt_um_multiplier_group_1`                 |
 | `tt_um_array_secD7`                                         | included |                                            |
-| `tt_um_arry_mult_structural`                                | included |                                            |
+| `tt_um_arry_mult_structural`                                | merged   | `tt_um_multiplier_group_2`                 |
 | `tt_um_asheldon44_dsm_decimation_filter`                    | included |                                            |
-| `tt_um_b_0_array_multiplier`                                | included |                                            |
-| `tt_um_b_10_array_multiplier`                               | included |                                            |
-| `tt_um_b_12_array_multiplier`                               | included |                                            |
-| `tt_um_B_14_array_multiplier`                               | included |                                            |
-| `tt_um_b_2_array_multiplier`                                | included |                                            |
-| `tt_um_b_6_array_multiplier`                                | included |                                            |
-| `tt_um_b_8_array_multiplier`                                | included |                                            |
+| `tt_um_b_0_array_multiplier`                                | merged   | `tt_um_multiplier_group_2`                 |
+| `tt_um_b_10_array_multiplier`                               | merged   | `tt_um_multiplier_group_2`                 |
+| `tt_um_b_12_array_multiplier`                               | merged   | `tt_um_multiplier_group_2`                 |
+| `tt_um_B_14_array_multiplier`                               | merged   | `tt_um_multiplier_group_1`                 |
+| `tt_um_b_2_array_multiplier`                                | merged   | `tt_um_multiplier_group_2`                 |
+| `tt_um_b_6_array_multiplier`                                | merged   | `tt_um_multiplier_group_2`                 |
+| `tt_um_b_8_array_multiplier`                                | merged   | `tt_um_multiplier_group_2`                 |
 | `tt_um_brandonramos_opamp_ladder`                           | dropped  | custom gds                                 |
-| `tt_um_c13_array_mult`                                      | included |                                            |
-| `tt_um_C_1_4bit_multiplier`                                 | included |                                            |
-| `tt_um_c1_array_mult_structural`                            | included |                                            |
-| `tt_um_c_2_array_mult`                                      | included |                                            |
-| `tt_um_c_4_4b_mult`                                         | included |                                            |
-| `tt_um_C6_array_multiplier`                                 | included |                                            |
-| `tt_um_c7_array_mult`                                       | included |                                            |
-| `tt_um_C8_array_mult`                                       | included |                                            |
+| `tt_um_c13_array_mult`                                      | merged   | `tt_um_multiplier_group_2`                 |
+| `tt_um_C_1_4bit_multiplier`                                 | merged   | `tt_um_multiplier_group_1`                 |
+| `tt_um_c1_array_mult_structural`                            | merged   | `tt_um_multiplier_group_2`                 |
+| `tt_um_c_2_array_mult`                                      | merged   | `tt_um_multiplier_group_2`                 |
+| `tt_um_c_4_4b_mult`                                         | merged   | `tt_um_multiplier_group_2`                 |
+| `tt_um_C6_array_multiplier`                                 | merged   | `tt_um_multiplier_group_1`                 |
+| `tt_um_c7_array_mult`                                       | merged   | `tt_um_multiplier_group_2`                 |
+| `tt_um_C8_array_mult`                                       | merged   | `tt_um_multiplier_group_1`                 |
 | `tt_um_CarrySelect8bit`                                     | included |                                            |
 | `tt_um_carryskip_adder8`                                    | included |                                            |
 | `tt_um_carryskip_adder9`                                    | included |                                            |
@@ -205,7 +205,7 @@
 | `tt_um_control_block`                                       | included |                                            |
 | `tt_um_couchand_analog_switch`                              | dropped  | custom gds                                 |
 | `tt_um_couchand_cora16`                                     | included |                                            |
-| `tt_um_d_4_array_multiplier`                                | included |                                            |
+| `tt_um_d_4_array_multiplier`                                | merged   | `tt_um_multiplier_group_2`                 |
 | `tt_um_db_MAC`                                              | included |                                            |
 | `tt_um_delta_liafn`                                         | included |                                            |
 | `tt_um_devinatkin_basys3_uart`                              | included |                                            |
@@ -218,7 +218,7 @@
 | `tt_um_Esteban_Oman_Mendoza_maze_2024_top`                  | included |                                            |
 | `tt_um_factory_test`                                        | dropped  | duplicate on tt10                          |
 | `tt_um_flyingfish800`                                       | included |                                            |
-| `tt_um_four_bit_multiplier_nasan016_npham2003`              | included |                                            |
+| `tt_um_four_bit_multiplier_nasan016_npham2003`              | merged   | `tt_um_multiplier_group_2`                 |
 | `tt_um_frequency_counter`                                   | included |                                            |
 | `tt_um_gfcwfzkm_scope_bfh_mht1_3`                           | dropped  | failed rehardening                         |
 | `tt_um_gmejiamtz`                                           | included |                                            |
@@ -240,7 +240,7 @@
 | `tt_um_koggestone_adder8`                                   | included |                                            |
 | `tt_um_KoushikCSN_RISCV`                                    | included |                                            |
 | `tt_um__kwr_lfsr__top`                                      | dropped  | failed rehardening                         |
-| `tt_um_LabA_Group11`                                        | included |                                            |
+| `tt_um_LabA_Group11`                                        | merged   | `tt_um_multiplier_group_1`                 |
 | `tt_um_led_cipher`                                          | included |                                            |
 | `tt_um_led_matrix_ayla_lin`                                 | included |                                            |
 | `tt_um_levenshtein`                                         | included |                                            |
@@ -256,7 +256,7 @@
 | `tt_um_lif_ZB`                                              | included |                                            |
 | `tt_um_lrc_stevej`                                          | included |                                            |
 | `tt_um_lsnn_hschweig`                                       | included |                                            |
-| `tt_um_m4rthaswur1d`                                        | included |                                            |
+| `tt_um_m4rthaswur1d`                                        | merged   | `tt_um_multiplier_group_3`                 |
 | `tt_um_matrix_mult`                                         | included |                                            |
 | `tt_um_mattvenn_analog_ring_osc`                            | dropped  | custom gds                                 |
 | `tt_um_mattvenn_double_inverter`                            | dropped  | custom gds                                 |
@@ -270,7 +270,7 @@
 | `tt_um_micro_tiles_container`                               | dropped  | custom gds                                 |
 | `tt_um_mikegoelzer_7segmentbyte`                            | included |                                            |
 | `tt_um_mroblesh`                                            | included |                                            |
-| `tt_um_multiplier`                                          | included | renamed to `tt_um_multiplier_tt09`         |
+| `tt_um_multiplier`                                          | merged   | `tt_um_multiplier_group_3`                 |
 | `tt_um_murmann_group`                                       | included |                                            |
 | `tt_um_my_elevator`                                         | included |                                            |
 | `tt_um_Nishanth_RISCV`                                      | included |                                            |
@@ -308,14 +308,14 @@
 | `tt_um_ronikant_jeremykam_tinyregisters`                    | included |                                            |
 | `tt_um_rtfb_collatz`                                        | included |                                            |
 | `tt_um_samkho_two_channel_square_wave_generator`            | included |                                            |
-| `tt_um_SarpHS_array_mult`                                   | included |                                            |
+| `tt_um_SarpHS_array_mult`                                   | merged   | `tt_um_multiplier_group_1`                 |
 | `tt_um_schoeberl_test`                                      | included |                                            |
 | `tt_um_sebastienparadis_hamming_top`                        | included |                                            |
-| `tt_um_secA_11_nyancar_alanz23`                             | included |                                            |
-| `tt_um_secA_group5_array_multiplier`                        | included |                                            |
-| `tt_um_secB_15_array_multiplier`                            | included |                                            |
-| `tt_um_secd_8_array_mult`                                   | included |                                            |
-| `tt_um_section_d_group_fifteen_array_mult_structural`       | included |                                            |
+| `tt_um_secA_11_nyancar_alanz23`                             | merged   | `tt_um_multiplier_group_3`                 |
+| `tt_um_secA_group5_array_multiplier`                        | merged   | `tt_um_multiplier_group_3`                 |
+| `tt_um_secB_15_array_multiplier`                            | merged   | `tt_um_multiplier_group_3`                 |
+| `tt_um_secd_8_array_mult`                                   | merged   | `tt_um_multiplier_group_3`                 |
+| `tt_um_section_d_group_fifteen_array_mult_structural`       | merged   | `tt_um_multiplier_group_3`                 |
 | `tt_um_senolgulgonul`                                       | included |                                            |
 | `tt_um_shifter`                                             | included |                                            |
 | `tt_um_snn_with_delays_paolaunisa`                          | dropped  | failed rehardening                         |
@@ -333,7 +333,7 @@
 | `tt_um_toivoh_pio_ram_emu_example`                          | included |                                            |
 | `tt_um_tommythorn_cgates`                                   | included |                                            |
 | `tt_um_tommythorn_workshop`                                 | included |                                            |
-| `tt_um_tt09_array_multiplier`                               | included |                                            |
+| `tt_um_tt09_array_multiplier`                               | merged   | `tt_um_multiplier_group_3`                 |
 | `tt_um_two_lif_stdp`                                        | included |                                            |
 | `tt_um_uart_mvm`                                            | included |                                            |
 | `tt_um_uart_mvm_sys`                                        | included |                                            |
@@ -442,7 +442,7 @@
 | `tt_um_wokwi_413923521595851777`                            | merged   | `tt_um_wokwi_group_9`                      |
 | `tt_um_wokwi_413923639862662145`                            | merged   | `tt_um_wokwi_group_3`                      |
 | `tt_um_wokwi_413923702485727233`                            | merged   | `tt_um_wokwi_group_8`                      |
-| `tt_um_wokwi_413925554587918337`                            | merged   | `tt_um_wokwi_group_5`                      |
+| `tt_um_wokwi_413925554587918337`                            | dropped  | failed rehardening                         |
 | `tt_um_wokwi_413929752291913729`                            | merged   | `tt_um_wokwi_group_7`                      |
 | `tt_um_wokwi_413960876763056129`                            | merged   | `tt_um_wokwi_group_9`                      |
 | `tt_um_wokwi_414041465275103233`                            | merged   | `tt_um_wokwi_group_9`                      |
@@ -498,7 +498,7 @@
 | `tt_um_wokwi_414121532514097153`                            | merged   | `tt_um_wokwi_group_10`                     |
 | `tt_um_wokwi_414121555407659009`                            | merged   | `tt_um_wokwi_group_6`                      |
 | `tt_um_wokwi_414121715329142785`                            | merged   | `tt_um_wokwi_group_3`                      |
-| `tt_um_wokwi_414122362169493505`                            | merged   | `tt_um_wokwi_group_4`                      |
+| `tt_um_wokwi_414122362169493505`                            | dropped  | failed rehardening                         |
 | `tt_um_wokwi_414122607025630209`                            | merged   | `tt_um_wokwi_group_2`                      |
 | `tt_um_wokwi_414123795172381697`                            | merged   | `tt_um_wokwi_group_3`                      |
 | `tt_um_wokwi_414124428088683521`                            | merged   | `tt_um_wokwi_group_8`                      |
