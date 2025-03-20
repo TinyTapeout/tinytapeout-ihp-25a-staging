@@ -7,6 +7,72 @@ on:
     types: [completed]
 
 jobs:
+  generate_fill:
+    runs-on: ubuntu-24.04
+    env:
+      PDK_ROOT: ${{ github.workspace }}/pdk
+      PDK: ihp-sg13g2
+      MAGIC_RC: ${{ github.workspace }}/pdk/ihp-sg13g2/libs.tech/magic/ihp-sg13g2.magicrc
+      MAGIC_VERSION: 8.3.522
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Checkout IHP PDK
+        uses: actions/checkout@v4
+        with:
+          repository: TinyTapeout/IHP-Open-PDK
+          path: ${{ env.PDK_ROOT }}
+          ref: tt2025
+          submodules: recursive
+
+      - name: Install magic VLSI
+        run: |
+          sudo apt-get install -y m4 python3 libx11-dev tcl-dev tk-dev libcairo2-dev mesa-common-dev libglu1-mesa-dev
+          git clone -b ${MAGIC_VERSION} https://github.com/RTimothyEdwards/magic magic
+          cd magic
+          ./configure
+          make -j4 
+          sudo make install
+
+      - name: Download artifact (run id = ${{ github.event.workflow_run.id }})
+        uses: dawidd6/action-download-artifact@v6
+        id: download_artifact
+        with:
+          workflow: gds.yaml
+          run_id: ${{ github.event.workflow_run.id }}
+          workflow_conclusion: success
+          name: ihp_submission
+          path: tinytapeout-submission
+
+      - name: GDSII -> .mag
+        working-directory: tinytapeout-submission/gds
+        run: |
+          magic -noconsole -dnull -rcfile $MAGIC_RC << EOF
+          gds readonly true
+          gds rescale false
+          gds read tt_ihp_wrapper.gds
+          writeall force tt_ihp_wrapper
+          writeall modified
+          EOF
+
+      - name: Generate fill
+        working-directory: tinytapeout-submission/gds
+        env:
+          FILL_SCRIPT: '${{ env.PDK_ROOT }}/${{ env.PDK }}/libs.tech/magic/generate_fill.py'
+        run: |
+          # Patch the fill script to use the correct PDK path
+          sed -i "s|/\$PDK_PATH|$PDK_ROOT/$PDK|g" $FILL_SCRIPT
+          python3 $FILL_SCRIPT -dist -keep tt_ihp_wrapper.mag
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: gds_fill
+          path: tinytapeout-submission/gds
+
   mpw_precheck:
     env:
       PYTHONIOENCODING: utf-8
