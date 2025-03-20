@@ -37,12 +37,12 @@ jobs:
           make -j4 
           sudo make install
 
-      - name: Download artifact (run id = ${{ github.event.workflow_run.id }})
+      - name: Download artifact (run id = 13973597894)
         uses: dawidd6/action-download-artifact@v6
         id: download_artifact
         with:
           workflow: gds.yaml
-          run_id: ${{ github.event.workflow_run.id }}
+          run_id: 13973597894
           workflow_conclusion: success
           name: ihp_submission
           path: tinytapeout-submission
