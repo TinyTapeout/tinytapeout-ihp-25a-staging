@@ -88,8 +88,8 @@
 
 === tt_um_wokwi_group_11 ===
 
-   Number of wires:                290
-   Number of wire bits:            325
+   Number of wires:                284
+   Number of wire bits:            319
    Number of public wires:         194
    Number of public wire bits:     229
    Number of ports:                  8
@@ -97,7 +97,7 @@
    Number of memories:               0
    Number of memory bits:            0
    Number of processes:              0
-   Number of cells:                303
+   Number of cells:                297
      and_cell                       72
      dff_cell                        4
      nand_cell                       2
@@ -116,7 +116,7 @@
      sg13g2_nor2_1                   4
      sg13g2_nor2b_1                  4
      sg13g2_or2_1                    2
-     sg13g2_tielo                   30
+     sg13g2_tielo                   24
      xor_cell                       37
 
    Area for cell type \xor_cell is unknown!
@@ -126,7 +126,7 @@
    Area for cell type \nand_cell is unknown!
    Area for cell type \dff_cell is unknown!
 
-   Chip area for module '\tt_um_wokwi_group_11': 1094.839200
+   Chip area for module '\tt_um_wokwi_group_11': 1051.293600
      of which used for sequential elements: 0.000000 (0.00%)
 
 === xor_cell ===
@@ -156,8 +156,8 @@
      or_cell                        38
      xor_cell                       37
 
-   Number of wires:                817
-   Number of wire bits:            852
+   Number of wires:                811
+   Number of wire bits:            846
    Number of public wires:         717
    Number of public wire bits:     752
    Number of ports:                531
@@ -165,7 +165,7 @@
    Number of memories:               0
    Number of memory bits:            0
    Number of processes:              0
-   Number of cells:                307
+   Number of cells:                301
      sg13g2_a21oi_1                  3
      sg13g2_a221oi_1                 2
      sg13g2_a22oi_1                 28
@@ -181,9 +181,9 @@
      sg13g2_nor2b_1                  4
      sg13g2_or2_1                   40
      sg13g2_tiehi                    4
-     sg13g2_tielo                   30
+     sg13g2_tielo                   24
      sg13g2_xor2_1                  37
 
-   Chip area for top module '\tt_um_wokwi_group_11': 3025.360800
+   Chip area for top module '\tt_um_wokwi_group_11': 2981.815200
      of which used for sequential elements: 0.000000 (0.00%)
 

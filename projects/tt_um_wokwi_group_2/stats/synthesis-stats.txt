@@ -105,8 +105,8 @@
 
 === tt_um_wokwi_group_2 ===
 
-   Number of wires:                883
-   Number of wire bits:            918
+   Number of wires:                695
+   Number of wire bits:            730
    Number of public wires:         456
    Number of public wire bits:     491
    Number of ports:                  8
@@ -114,28 +114,29 @@
    Number of memories:               0
    Number of memory bits:            0
    Number of processes:              0
-   Number of cells:                899
+   Number of cells:                711
      and_cell                       35
      dff_cell                      182
      mux_cell                      170
      nand_cell                       6
      not_cell                       25
      or_cell                        15
-     sg13g2_a21oi_1                  1
-     sg13g2_a22oi_1                 32
-     sg13g2_and2_1                  17
-     sg13g2_and3_1                   1
-     sg13g2_and4_1                   5
-     sg13g2_inv_1                    3
-     sg13g2_nand2_1                  5
-     sg13g2_nand3_1                  6
-     sg13g2_nand4_1                  2
+     sg13g2_a221oi_1                 1
+     sg13g2_a22oi_1                 31
+     sg13g2_and2_1                  13
+     sg13g2_and3_1                   5
+     sg13g2_and4_1                   4
+     sg13g2_inv_1                    2
+     sg13g2_nand2_1                  6
+     sg13g2_nand2b_1                 1
+     sg13g2_nand3_1                  3
+     sg13g2_nand4_1                  4
      sg13g2_nor2_1                   2
      sg13g2_nor2b_1                  4
      sg13g2_o21ai_1                  1
      sg13g2_or2_1                    1
      sg13g2_tiehi                  121
-     sg13g2_tielo                  250
+     sg13g2_tielo                   64
      xor_cell                       15
 
    Area for cell type \not_cell is unknown!
@@ -146,7 +147,7 @@
    Area for cell type \dff_cell is unknown!
    Area for cell type \mux_cell is unknown!
 
-   Chip area for module '\tt_um_wokwi_group_2': 3486.067200
+   Chip area for module '\tt_um_wokwi_group_2': 2136.191400
      of which used for sequential elements: 0.000000 (0.00%)
 
 === xor_cell ===
@@ -177,8 +178,8 @@
      or_cell                        15
      xor_cell                       15
 
-   Number of wires:               2736
-   Number of wire bits:           2771
+   Number of wires:               2548
+   Number of wire bits:           2583
    Number of public wires:        2127
    Number of public wire bits:    2162
    Number of ports:               1679
@@ -186,26 +187,27 @@
    Number of memories:               0
    Number of memory bits:            0
    Number of processes:              0
-   Number of cells:               1081
-     sg13g2_a21oi_1                  1
-     sg13g2_a22oi_1                 32
-     sg13g2_and2_1                  52
-     sg13g2_and3_1                   1
-     sg13g2_and4_1                   5
+   Number of cells:                893
+     sg13g2_a221oi_1                 1
+     sg13g2_a22oi_1                 31
+     sg13g2_and2_1                  48
+     sg13g2_and3_1                   5
+     sg13g2_and4_1                   4
      sg13g2_dfrbp_1                182
-     sg13g2_inv_1                   28
+     sg13g2_inv_1                   27
      sg13g2_mux2_1                 170
-     sg13g2_nand2_1                 11
-     sg13g2_nand3_1                  6
-     sg13g2_nand4_1                  2
+     sg13g2_nand2_1                 12
+     sg13g2_nand2b_1                 1
+     sg13g2_nand3_1                  3
+     sg13g2_nand4_1                  4
      sg13g2_nor2_1                   2
      sg13g2_nor2b_1                  4
      sg13g2_o21ai_1                  1
      sg13g2_or2_1                   16
      sg13g2_tiehi                  303
-     sg13g2_tielo                  250
+     sg13g2_tielo                   64
      sg13g2_xor2_1                  15
 
-   Chip area for top module '\tt_um_wokwi_group_2': 17328.124800
+   Chip area for top module '\tt_um_wokwi_group_2': 15978.249000
      of which used for sequential elements: 0.000000 (0.00%)
 

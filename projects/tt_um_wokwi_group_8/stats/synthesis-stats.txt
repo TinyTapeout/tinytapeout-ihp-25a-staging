@@ -109,8 +109,8 @@
 
 === tt_um_wokwi_group_8 ===
 
-   Number of wires:                252
-   Number of wire bits:            287
+   Number of wires:                231
+   Number of wire bits:            266
    Number of public wires:         160
    Number of public wire bits:     195
    Number of ports:                  8
@@ -118,7 +118,7 @@
    Number of memories:               0
    Number of memory bits:            0
    Number of processes:              0
-   Number of cells:                260
+   Number of cells:                239
      and_cell                       63
      dff_cell                        9
      dffsr_cell                      8
@@ -143,7 +143,7 @@
      sg13g2_nor4_1                   2
      sg13g2_o21ai_1                  3
      sg13g2_or3_1                    1
-     sg13g2_tielo                   37
+     sg13g2_tielo                   16
      xor_cell                       12
 
    Area for cell type \dff_cell is unknown!
@@ -154,7 +154,7 @@
    Area for cell type \dffsr_cell is unknown!
    Area for cell type \mux_cell is unknown!
 
-   Chip area for module '\tt_um_wokwi_group_8': 1049.554800
+   Chip area for module '\tt_um_wokwi_group_8': 897.145200
      of which used for sequential elements: 0.000000 (0.00%)
 
 === xor_cell ===
@@ -185,8 +185,8 @@
      or_cell                        23
      xor_cell                       12
 
-   Number of wires:                735
-   Number of wire bits:            770
+   Number of wires:                714
+   Number of wire bits:            749
    Number of public wires:         602
    Number of public wire bits:     637
    Number of ports:                450
@@ -194,7 +194,7 @@
    Number of memories:               0
    Number of memory bits:            0
    Number of processes:              0
-   Number of cells:                301
+   Number of cells:                280
      sg13g2_a21o_1                   1
      sg13g2_a21oi_1                  5
      sg13g2_a221oi_1                 2
@@ -218,9 +218,9 @@
      sg13g2_or3_1                    1
      sg13g2_sdfbbp_1                 8
      sg13g2_tiehi                    9
-     sg13g2_tielo                   53
+     sg13g2_tielo                   32
      sg13g2_xor2_1                  12
 
-   Chip area for top module '\tt_um_wokwi_group_8': 2892.985200
+   Chip area for top module '\tt_um_wokwi_group_8': 2740.575600
      of which used for sequential elements: 0.000000 (0.00%)
 
