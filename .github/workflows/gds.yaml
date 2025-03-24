@@ -21,7 +21,7 @@ jobs:
       # Uncomment the following line to build only the specified projects:
       #TT_ONLY_PROJECTS: tt_um_chip_rom,tt_um_factory_test
 
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest-l
     steps:
       - name: checkout repo
         uses: actions/checkout@v4
@@ -129,11 +129,6 @@ jobs:
         run: |
           wget https://github.com/TinyTapeout/klayout/releases/download/v0.29.11/klayout_0.29.11-1_amd64.deb
           sudo apt-get update && sudo apt-get install -y ./klayout_0.29.11-1_amd64.deb
-
-      - name: Set Swap Space
-        uses: pierotofy/set-swap-space@master
-        with:
-          swap-size-gb: 10
 
       - name: Generate fill and add logo
         working-directory: fill
