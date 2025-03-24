@@ -19,7 +19,7 @@ jobs:
       PDK_ROOT: ${{ github.workspace }}/pdk
       TT_CONFIG: ihp-sg13g2.yaml
       # Uncomment the following line to build only the specified projects:
-      #TT_ONLY_PROJECTS: tt_um_chip_rom,tt_um_factory_test
+      TT_ONLY_PROJECTS: tt_um_chip_rom,tt_um_factory_test
 
     runs-on: ubuntu-24.04
     steps:
@@ -124,11 +124,31 @@ jobs:
           name: shuttle_index
           path: shuttle_index.json
 
+      - name: Install KLayout
+        shell: bash
+        run: |
+          wget https://github.com/TinyTapeout/klayout/releases/download/v0.29.11/klayout_0.29.11-1_amd64.deb
+          sudo apt-get update && sudo apt-get install -y ./klayout_0.29.11-1_amd64.deb
+
+      - name: Generate fill and add logo
+        working-directory: fill
+        run: make -j4 fill KLAYOUT_CMD=/usr/bin/klayout
+
       - name: upload IHP submission directory
         uses: actions/upload-artifact@v4
+        if: success() || failure()
         with:
           name: ihp_submission
           path: ihp
+
+      - name: Upload density reports
+        uses: actions/upload-artifact@v4
+        if: success() || failure()
+        with:
+          name: density_report
+          path: |
+            fill/drc_report.log
+            fill/drc_report.xml
 
       # Install iverilog, cocotb (required for GL test)
       - name: install oss-cad-suite
