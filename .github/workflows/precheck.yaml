@@ -113,7 +113,7 @@ jobs:
         working-directory: ihp
         run: |
           klayout -b -zz \
-            -r sg13g2_density.lydrc \
+            -r ../fill/sg13g2_density.lydrc \
             -rd in_gds=gds/tt_ihp_wrapper_final.gds \
             -rd cell=tt_ihp_wrapper \
             -rd report_file=density_report.xml \
