@@ -130,6 +130,11 @@ jobs:
           wget https://github.com/TinyTapeout/klayout/releases/download/v0.29.11/klayout_0.29.11-1_amd64.deb
           sudo apt-get update && sudo apt-get install -y ./klayout_0.29.11-1_amd64.deb
 
+      - name: Set Swap Space
+        uses: pierotofy/set-swap-space@master
+        with:
+          swap-size-gb: 10
+
       - name: Generate fill and add logo
         working-directory: fill
         run: make fill KLAYOUT_CMD=/usr/bin/klayout
