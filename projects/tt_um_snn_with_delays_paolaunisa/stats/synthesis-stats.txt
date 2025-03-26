@@ -1,0 +1,47 @@
+156. Printing statistics.
+
+=== tt_um_snn_with_delays_paolaunisa ===
+
+   Number of wires:              12057
+   Number of wire bits:          12092
+   Number of public wires:        1686
+   Number of public wire bits:    1721
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:              10396
+     sg13g2_a21o_1                 119
+     sg13g2_a21oi_1                821
+     sg13g2_a221oi_1               107
+     sg13g2_a22oi_1                616
+     sg13g2_and2_1                 143
+     sg13g2_and3_1                  22
+     sg13g2_and4_1                 110
+     sg13g2_buf_1                    3
+     sg13g2_dfrbp_1               1677
+     sg13g2_inv_1                  428
+     sg13g2_mux2_1                1591
+     sg13g2_mux4_1                 103
+     sg13g2_nand2_1                678
+     sg13g2_nand2b_1               298
+     sg13g2_nand3_1                161
+     sg13g2_nand3b_1                68
+     sg13g2_nand4_1                195
+     sg13g2_nor2_1                 722
+     sg13g2_nor2b_1                333
+     sg13g2_nor3_1                 142
+     sg13g2_nor4_1                  48
+     sg13g2_o21ai_1               1078
+     sg13g2_or2_1                   74
+     sg13g2_or3_1                   71
+     sg13g2_or4_1                    8
+     sg13g2_tiehi                    5
+     sg13g2_tielo                   10
+     sg13g2_xnor2_1                465
+     sg13g2_xor2_1                 300
+
+   Chip area for module '\tt_um_snn_with_delays_paolaunisa': 179448.091200
+     of which used for sequential elements: 79111.468800 (44.09%)
+
