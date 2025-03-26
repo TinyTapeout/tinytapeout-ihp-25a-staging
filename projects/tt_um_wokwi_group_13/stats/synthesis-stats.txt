@@ -126,8 +126,8 @@
 
 === tt_um_wokwi_group_13 ===
 
-   Number of wires:                652
-   Number of wire bits:            687
+   Number of wires:                650
+   Number of wire bits:            685
    Number of public wires:         382
    Number of public wire bits:     417
    Number of ports:                  8
@@ -135,7 +135,7 @@
    Number of memories:               0
    Number of memory bits:            0
    Number of processes:              0
-   Number of cells:                661
+   Number of cells:                659
      and_cell                       52
      dff_cell                        9
      dffsr_cell                     60
@@ -143,17 +143,20 @@
      nand_cell                       5
      not_cell                       29
      or_cell                        34
-     sg13g2_a21oi_1                  1
-     sg13g2_a221oi_1                 1
-     sg13g2_a22oi_1                 34
-     sg13g2_and2_1                  16
-     sg13g2_and4_1                   6
+     sg13g2_a21oi_1                  2
+     sg13g2_a221oi_1                 2
+     sg13g2_a22oi_1                 33
+     sg13g2_and2_1                   8
+     sg13g2_and3_1                   1
+     sg13g2_and4_1                   5
      sg13g2_inv_1                    5
      sg13g2_nand2_1                  5
-     sg13g2_nand3_1                  3
+     sg13g2_nand2b_1                 1
+     sg13g2_nand3_1                  2
      sg13g2_nand4_1                  3
-     sg13g2_nor2_1                   3
-     sg13g2_nor2b_1                  5
+     sg13g2_nor2_1                   4
+     sg13g2_nor2b_1                  6
+     sg13g2_nor3_1                   3
      sg13g2_o21ai_1                  1
      sg13g2_or2_1                    2
      sg13g2_tiehi                   66
@@ -169,7 +172,7 @@
    Area for cell type \nand_cell is unknown!
    Area for cell type \dff_cell is unknown!
 
-   Chip area for module '\tt_um_wokwi_group_13': 2359.249200
+   Chip area for module '\tt_um_wokwi_group_13': 2341.143000
      of which used for sequential elements: 0.000000 (0.00%)
 
 === xor_cell ===
@@ -201,8 +204,8 @@
      or_cell                        34
      xor_cell                        6
 
-   Number of wires:               2334
-   Number of wire bits:           2369
+   Number of wires:               2332
+   Number of wire bits:           2367
    Number of public wires:        1815
    Number of public wire bits:    1850
    Number of ports:               1441
@@ -210,20 +213,23 @@
    Number of memories:               0
    Number of memory bits:            0
    Number of processes:              0
-   Number of cells:                910
-     sg13g2_a21oi_1                  1
-     sg13g2_a221oi_1                 1
-     sg13g2_a22oi_1                 34
-     sg13g2_and2_1                  68
-     sg13g2_and4_1                   6
+   Number of cells:                908
+     sg13g2_a21oi_1                  2
+     sg13g2_a221oi_1                 2
+     sg13g2_a22oi_1                 33
+     sg13g2_and2_1                  60
+     sg13g2_and3_1                   1
+     sg13g2_and4_1                   5
      sg13g2_dfrbp_1                  9
      sg13g2_inv_1                  154
      sg13g2_mux2_1                 172
      sg13g2_nand2_1                 10
-     sg13g2_nand3_1                  3
+     sg13g2_nand2b_1                 1
+     sg13g2_nand3_1                  2
      sg13g2_nand4_1                  3
-     sg13g2_nor2_1                   3
-     sg13g2_nor2b_1                  5
+     sg13g2_nor2_1                   4
+     sg13g2_nor2b_1                  6
+     sg13g2_nor3_1                   3
      sg13g2_o21ai_1                  1
      sg13g2_or2_1                   36
      sg13g2_sdfbbp_1                60
@@ -231,6 +237,6 @@
      sg13g2_tielo                  263
      sg13g2_xor2_1                   6
 
-   Chip area for top module '\tt_um_wokwi_group_13': 8555.425200
+   Chip area for top module '\tt_um_wokwi_group_13': 8537.319000
      of which used for sequential elements: 0.000000 (0.00%)
 
