@@ -1,0 +1,66 @@
+102. Printing statistics.
+
+=== inverter ===
+
+   Number of wires:                  2
+   Number of wire bits:              2
+   Number of public wires:           2
+   Number of public wire bits:       2
+   Number of ports:                  2
+   Number of port bits:              2
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_inv_1                    1
+
+   Chip area for module '\inverter': 5.443200
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== tt_um_urish_giant_ringosc ===
+
+   Number of wires:               3861
+   Number of wire bits:           3896
+   Number of public wires:        3861
+   Number of public wire bits:    3896
+   Number of ports:                  8
+   Number of port bits:             43
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               3877
+     inverter                     3853
+     sg13g2_buf_1                   13
+     sg13g2_mux2_1                   1
+     sg13g2_tiehi                    8
+     sg13g2_tielo                    2
+
+   Area for cell type \inverter is unknown!
+
+   Chip area for module '\tt_um_urish_giant_ringosc': 185.068800
+     of which used for sequential elements: 0.000000 (0.00%)
+
+=== design hierarchy ===
+
+   tt_um_urish_giant_ringosc         1
+     inverter                     3853
+
+   Number of wires:              11567
+   Number of wire bits:          11602
+   Number of public wires:       11567
+   Number of public wire bits:   11602
+   Number of ports:               7714
+   Number of port bits:           7749
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               3877
+     sg13g2_buf_1                   13
+     sg13g2_inv_1                 3853
+     sg13g2_mux2_1                   1
+     sg13g2_tiehi                    8
+     sg13g2_tielo                    2
+
+   Chip area for top module '\tt_um_urish_giant_ringosc': 21157.718400
+     of which used for sequential elements: 0.000000 (0.00%)
+
